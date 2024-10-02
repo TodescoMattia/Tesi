@@ -1,7 +1,27 @@
 {
+    "Elastic": {
+        "url": "https://www.elastic.co",
+        "description": "Sito web ufficiale della suite Elastic",
+        "date": [2, 10, 24]
+    },
+    "Elasticsearch": {
+        "url": "https://www.elastic.co/elasticsearch",
+        "description": "Sito web ufficiale di Elasticsearch",
+        "date": [2, 10, 24]
+    },
     "Java": {
-        "url" : "https://java.com/",
-        "description" : "Sito web ufficiale di Java",
-        "date" : [8, 8, 24]
+        "url": "https://java.com/",
+        "description": "Sito web ufficiale di Java",
+        "date": [2, 10, 24]
+    },
+    "Kibana": {
+        "url": "https://www.elastic.co/kibana",
+        "description": "Sito web ufficiale di Kibana",
+        "date": [2, 10, 24]
+    },
+    "Kirey group": {
+        "url": "https://www.kireygroup.com/",
+        "description": "Sito web ufficiale di Kirey group",
+        "date": [2, 10, 24]
     }
 }
