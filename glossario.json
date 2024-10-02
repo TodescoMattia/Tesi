@@ -1,0 +1,27 @@
+{
+    "Agile": {
+      "description": "Metodologia di sviluppo software che prevede la realizzazione di progetti in modo iterativo e incrementale, con particolare attenzione alla collaborazione tra i membri del team e alla risposta rapida ai cambiamenti.",
+      "acronyms": [],
+      "synonyms": []
+    },
+    "Application Programming Interface": {
+      "description": "Insieme di regole e protocolli che consente la comunicazione standardizzata tra software distinti. Definisce le modalità di scambio e le strutture dati scambiate durante la comunicazione.",
+      "acronyms": ["API"],
+      "synonyms": []
+    },
+    "Backlog": {
+      "description": "Gruppo di attività da completare per conseguire un certo obiettivo.",
+      "acronyms": [],
+      "synonyms": []
+    },
+    "Bin": {
+      "description": "Unità minima di spazio del magazzino atta a contenere prodotti. I bin sono posizionati in automatico all'interno degli scaffali al momento della loro creazione, e possono contenere al massimo un tipo di prodotto. È possibile creare bin, eliminarli se vuoti, e modificarne le dimensioni.",
+      "acronyms": [],
+      "synonyms": []
+    },
+    "Bitbucket": {
+      "description": "Software di versionamento distribuito utilizzabile tramite linea di comando.",
+      "acronyms": [],
+      "synonyms": []
+    }
+}
