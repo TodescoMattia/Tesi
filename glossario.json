@@ -14,11 +14,6 @@
       "acronyms": [],
       "synonyms": []
     },
-    "Bin": {
-      "description": "Unità minima di spazio del magazzino atta a contenere prodotti. I bin sono posizionati in automatico all'interno degli scaffali al momento della loro creazione, e possono contenere al massimo un tipo di prodotto. È possibile creare bin, eliminarli se vuoti, e modificarne le dimensioni.",
-      "acronyms": [],
-      "synonyms": []
-    },
     "Bitbucket": {
       "description": "Software di versionamento distribuito utilizzabile tramite linea di comando.",
       "acronyms": [],

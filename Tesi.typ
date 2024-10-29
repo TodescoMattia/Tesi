@@ -18,7 +18,7 @@
 
 = Obiettivi dello Stage (Perché)
 
-    == Obiettivi dello Stage secondo Kirey
+    == Obiettivi dello Stage secondo Kirey group
     Analisi degli obiettivi, dei problemi o delle aree di miglioramento individuate dall'azienda, con una spiegazione su come questi motivi si inseriscano nella strategia a lungo termine dell'organizzazione.
 
     == Progetto proposto
