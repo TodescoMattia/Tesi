@@ -70,7 +70,7 @@
 
   show figure.where(kind: table): set figure(supplement: "Tabella")
   
-  // Page header
+  // Page header.
   set page(
     header: locate(loc => {
       text(

@@ -39,4 +39,4 @@
   pagebreak()
   body
 }
-#coverPage([]) // Invoca la funzione con un array vuoto per visualizzare la copertina
+#coverPage([]) // Invoca la funzione con un array vuoto per visualizzare la copertina.
