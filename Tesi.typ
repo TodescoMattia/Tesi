@@ -4,7 +4,7 @@
 
 = Contesto Organizzativo (Dove)
 
-    == Struttura dell'Azienda
+    == Presentazione e struttura dell'Azienda
     Descrizione dell'organizzazione, la sua struttura, il suo settore di appartenenza e la tipologia di clienti serviti (piccoli, grandi, pubblici, privati). Sarà un'introduzione alle dimensioni aziendali e alla sua organizzazione interna.
 
     == Tecnologie Utilizzate
@@ -18,8 +18,11 @@
 
 = Obiettivi dello Stage (Perché)
 
-    == Obiettivi Aziendali dello Stage
+    == Obiettivi dello Stage secondo Kirey
     Analisi degli obiettivi, dei problemi o delle aree di miglioramento individuate dall'azienda, con una spiegazione su come questi motivi si inseriscano nella strategia a lungo termine dell'organizzazione.
+
+    == Progetto proposto
+    Analisi del progetto proposto e di ciò che l'azienda si aspettava.
 
     == La Strategia di Innovazione dell'Azienda e gli Stage
     Considerazioni sull'approccio generale dell'azienda rispetto agli stage e alla collaborazione con giovani professionisti, evidenziando la visione dell'azienda in merito a innovazione e sviluppo di giovane personale.
@@ -29,15 +32,18 @@
 
 = Svolgimento del Progetto (Cosa e Come)
 
-    == Metodo di Lavoro
+    == Metodo di Lavoro (Way of working)
     Descrizione del metodo di lavoro adottato, inclusi gli strumenti di gestione, le modalità di pianificazione delle attività e le interazioni con il tutor aziendale. Verranno evidenziate anche le tecniche di analisi e tracciamento dei requisiti fornitemi dall'azienda.
 
     == Sfide Progettuali e Tecnologiche
     Esposizione dei principali problemi affrontati, sia progettuali che tecnologici, suddivisa per fasi (analisi, progettazione, programmazione, verifica e validazione).
 
-    == Risultati Ottenuti
-    Descrizione dei risultati ottenuti dallo stage, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing). Saranno incluse anche metriche specifiche, come linee di codice o documenti prodotti.
+    == Codifica
+    Esposizione dei principali problemi affrontati in fase di codifica e spiegazione delle scelte fatte per superarli.
 
+    == Risultati Ottenuti
+    Descrizione dei risultati ottenuti dallo stage, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing).
+    
 = Valutazione dell'Esperienza (Retrospettiva)
 
     == Valutazione del Raggiungimento degli Obiettivi
