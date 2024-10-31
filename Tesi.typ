@@ -2,21 +2,42 @@
 
 #show: template
 
-= Contesto Organizzativo (Dove)
+= Sommario
+
+Il presente documento è stato redatto allo scopo di illustrare l'esperienza di tirocinio svolta presso l'azienda Kirey Group da Mattia Todesco, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
+
+L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi di rete. 
+
+Il documento si articola in quattro capitoli principali:
+
+    - Contesto organizzativo: descrive il contesto organizzativo e produttivo dell'azienda Kirey group in cui il tirocinante è stato inserito;
+    - Obiettivi dello stage: presenta il progetto assegnato, il ruolo del tirocinante e le motivazioni alla base della sua scelta;
+    - Svolgimento del progetto: illustra il metodo di lavoro adottato, le attività svolte e i risultati conseguiti;
+    - Valutazione dell'esperienza: riporta le considerazioni finali del tirocinante sull'esperienza e sulle competenze acquisite.
+
+All'interno del documento sono state adottate le seguenti convenzioni tipografiche:
+
+    - i termini in lingua straniera sono resi in corsivo;
+    - ogni immagine è accompagnata da una didascalia e dalla fonte di provenienza;
+    - i termini riportati nel glossario sono contrassegnati con una lettera "G" in pedice.
+
+In appendice sono inoltre presenti un elenco di abbreviazioni e acronimi, un glossario e una bibliografia e sitografia dei siti consultati.
+
+= Contesto organizzativo
 
     == Presentazione e struttura dell'Azienda
     Descrizione dell'organizzazione, la sua struttura, il suo settore di appartenenza e la tipologia di clienti serviti (piccoli, grandi, pubblici, privati). Sarà un'introduzione alle dimensioni aziendali e alla sua organizzazione interna.
 
-    == Tecnologie Utilizzate
-    Panoramica delle principali tecnologie adottate dall'azienda, con riferimento a strumenti di sviluppo, piattaforme di lavoro e tecnologie specifiche del settore.
-
     == Processi Aziendali
     Descrizione dei processi interni di sviluppo, manutenzione e gestione delle attività. Saranno inclusi aspetti come metodologie di lavoro, pianificazione e approccio alla risoluzione dei problemi.
+
+    == Tecnologie Utilizzate
+    Panoramica delle principali tecnologie adottate dall'azienda, con riferimento a strumenti di sviluppo, piattaforme di lavoro e tecnologie specifiche del settore.
 
     == Approccio all'Innovazione
     Analisi del ruolo dell'innovazione in azienda, (ho chiesto esempi concreti di come vengono promosse nuove idee o miglioramenti tecnologici) inclusi eventuali progetti di ricerca e sviluppo o collaborazioni con altre realtà.
 
-= Obiettivi dello Stage (Perché)
+= Obiettivi dello stage
 
     == Obiettivi dello Stage secondo Kirey group
     Analisi degli obiettivi, dei problemi o delle aree di miglioramento individuate dall'azienda, con una spiegazione su come questi motivi si inseriscano nella strategia a lungo termine dell'organizzazione.
@@ -30,7 +51,7 @@
     == Obiettivi Personali e Motivazioni della Scelta
     Spiegazione delle motivazioni personali che hanno portato alla scelta dello stage e delle competenze o esperienze che lo stage avrebbe permesso di sviluppare rispetto ad altre opportunità.
 
-= Svolgimento del Progetto (Cosa e Come)
+= Svolgimento del progetto
 
     == Metodo di Lavoro (Way of working)
     Descrizione del metodo di lavoro adottato, inclusi gli strumenti di gestione, le modalità di pianificazione delle attività e le interazioni con il tutor aziendale. Verranno evidenziate anche le tecniche di analisi e tracciamento dei requisiti fornitemi dall'azienda.
@@ -44,7 +65,7 @@
     == Risultati Ottenuti
     Descrizione dei risultati ottenuti dallo stage, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing).
     
-= Valutazione dell'Esperienza (Retrospettiva)
+= Valutazione dell'esperienza
 
     == Valutazione del Raggiungimento degli Obiettivi
     Riflessione sul raggiungimento degli obiettivi iniziali dello stage, in base a dati concreti, e valutazione del grado di soddisfazione sia per l'azienda che per lo studente.
