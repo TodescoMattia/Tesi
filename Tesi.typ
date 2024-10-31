@@ -21,7 +21,7 @@ All'interno del documento sono state adottate le seguenti convenzioni tipografic
     - ogni immagine è accompagnata da una didascalia e dalla fonte di provenienza;
     - i termini riportati nel glossario sono contrassegnati con una lettera "G" in pedice.
 
-In appendice sono inoltre presenti un elenco di abbreviazioni e acronimi, un glossario e una bibliografia e sitografia dei siti consultati.
+In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e una bibliografia con sitografia dei riferimenti consultati.
 
 = Contesto organizzativo
 
