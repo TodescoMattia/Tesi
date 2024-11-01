@@ -45,6 +45,8 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
     == Approccio all'Innovazione
     Analisi del ruolo dell'innovazione in azienda, (ho chiesto esempi concreti di come vengono promosse nuove idee o miglioramenti tecnologici) inclusi eventuali progetti di ricerca e sviluppo o collaborazioni con altre realtà.
 
+#pagebreak()
+
 = Obiettivi dello stage
 
     == Obiettivi dello Stage secondo Kirey group
@@ -59,6 +61,8 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
     == Obiettivi Personali e Motivazioni della Scelta
     Spiegazione delle motivazioni personali che hanno portato alla scelta dello stage e delle competenze o esperienze che lo stage avrebbe permesso di sviluppare rispetto ad altre opportunità.
 
+#pagebreak()
+
 = Svolgimento del progetto
 
     == Metodo di Lavoro (Way of working)
@@ -72,7 +76,9 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
 
     == Risultati Ottenuti
     Descrizione dei risultati ottenuti dallo stage, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing).
-    
+
+#pagebreak()
+ 
 = Valutazione dell'esperienza
 
     == Valutazione del Raggiungimento degli Obiettivi
