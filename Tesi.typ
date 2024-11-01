@@ -23,10 +23,18 @@ All'interno del documento sono state adottate le seguenti convenzioni tipografic
 
 In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e una bibliografia con sitografia dei riferimenti consultati.
 
+#pagebreak()
+
 = Contesto organizzativo
 
     == Presentazione e struttura dell'Azienda
-    Descrizione dell'organizzazione, la sua struttura, il suo settore di appartenenza e la tipologia di clienti serviti (piccoli, grandi, pubblici, privati). Sarà un'introduzione alle dimensioni aziendali e alla sua organizzazione interna.
+
+    Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
+    
+    L'azienda offre supporto alle imprese in vari settori, tra cui finanza, sanità, telecomunicazioni, energia e industria, con competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica e all'analisi dei dati. 
+
+    La missione di Kirey Group è quella di aiutare i clienti ad ottimizzare i processi aziendali e a migliorare la competitività attraverso soluzioni digitali innovative.
+
 
     == Processi Aziendali
     Descrizione dei processi interni di sviluppo, manutenzione e gestione delle attività. Saranno inclusi aspetti come metodologie di lavoro, pianificazione e approccio alla risoluzione dei problemi.
