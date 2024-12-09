@@ -25,25 +25,76 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
 
 #pagebreak()
 
+//###############################################################################################################################
+
+
 = Contesto organizzativo
 
-    == Presentazione e struttura dell'Azienda
+== Presentazione e struttura dell'Azienda
 
-    Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
+Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
     
-    L'azienda offre supporto alle imprese in vari settori, tra cui finanza, sanità, telecomunicazioni, energia e industria, con competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica e all'analisi dei dati. 
+L'azienda offre supporto alle imprese in vari settori, tra cui finanza, sanità, telecomunicazioni, energia e industria, con competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica e all'analisi dei dati. 
 
-    La missione di Kirey Group è quella di aiutare i clienti ad ottimizzare i processi aziendali e a migliorare la competitività attraverso soluzioni digitali innovative.
+La missione di Kirey Group è quella di aiutare i clienti ad ottimizzare i processi aziendali e a migliorare la competitività attraverso soluzioni digitali innovative.
 
+//###############################################################################################################################
 
-    == Processi Aziendali
-    Descrizione dei processi interni di sviluppo, manutenzione e gestione delle attività. Saranno inclusi aspetti come metodologie di lavoro, pianificazione e approccio alla risoluzione dei problemi.
+== Clientela
 
-    == Tecnologie Utilizzate
-    Panoramica delle principali tecnologie adottate dall'azienda, con riferimento a strumenti di sviluppo, piattaforme di lavoro e tecnologie specifiche del settore.
+Kirey Group collabora principalmente con clienti provenienti dal settore bancario, finanziario e assicurativo, a cui offre soluzioni tecnologiche e servizi di consulenza mirati. 
 
-    == Approccio all'Innovazione
-    Analisi del ruolo dell'innovazione in azienda, (ho chiesto esempi concreti di come vengono promosse nuove idee o miglioramenti tecnologici) inclusi eventuali progetti di ricerca e sviluppo o collaborazioni con altre realtà.
+Le istituzioni finanziarie rappresentano una parte significativa della clientela dell'azienda, grazie alla loro necessità costante di innovare, migliorare l'efficienza operativa e rispettare stringenti normative di conformità.
+
+Un'esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia.
+
+//###############################################################################################################################
+
+== Processi Aziendali
+Descrizione dei processi interni di sviluppo, manutenzione e gestione delle attività. Saranno inclusi aspetti come metodologie di lavoro, pianificazione e approccio alla risoluzione dei problemi.
+
+//###############################################################################################################################
+
+== Tecnologie Utilizzate
+Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo stack ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
+
+- *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente insight dettagliati;
+
+- *Logstash* viene utilizzato per l'elaborazione e la trasformazione dei dati prima che vengano indicizzati in Elasticsearch. Facilita la raccolta, l'arricchimento e la normalizzazione dei dati da diverse fonti, semplificando la gestione di flussi complessi di dati;
+
+- *Kibana* fornisce interfacce di visualizzazione intuitive che consentono agli utenti di creare dashboard personalizzate per il monitoraggio e l'analisi dei dati, migliorando la visibilità operativa e supportando le decisioni aziendali.
+
+Questo stack di applicativi permette all'azienda di offrire:
+
+- Monitoraggio e analisi dei log delle applicazioni per la rilevazione di potenziali anomalie e comportamenti sospetti;
+
+- Supporto alla conformità alle normative del settore (come PSD2, GDPR, ecc...);
+
+- Ottimizzazione dell'efficienza operativa tramite dashboard di monitoraggio in tempo reale.
+
+===  Tecnologie secondarie
+
+Oltre all'ELK stack, Kirey Group utilizza una vasta gamma di tecnologie secondarie che vengono utilizzate al bisogno, tra cui:
+
+- *Java* e framework come *Spring Boot* per lo sviluppo back-end di applicazioni;
+- *React* per lo sviluppo di interfacce utente;
+- *Docker* e *Kubernetes* per la creazione di container e l'orchestrazione delle applicazioni, andando a migliorarne il deployment e la scalabilità delle stesse.
+
+=== Panoramica delle piattaforme di lavoro
+
+Kirey Group adotta inoltre alcune piattaforme collaborative e strumenti di produttività per facilitare il lavoro in team:
+
+- *Microsoft Teams* per la comunicazione interna e le videoconferenze;
+- *Confluence* per la documentazione centralizzata dei progetti;
+- *Jira* per la gestione delle attività e la pianificazione degli sprint;
+- *Bitbucket* per il version control e l'integrazione continua (CI/CD).
+
+Queste piattaforme assicurano una gestione efficace delle informazioni, una comunicazione fluida e un'alta produttività, sia per i team in ufficio che per quelli in modalità remota.
+
+//###############################################################################################################################
+
+== Approccio all'Innovazione
+Analisi del ruolo dell'innovazione in azienda, (ho chiesto esempi concreti di come vengono promosse nuove idee o miglioramenti tecnologici) inclusi eventuali progetti di ricerca e sviluppo o collaborazioni con altre realtà.
 
 #pagebreak()
 
