@@ -52,6 +52,31 @@ Un'esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, du
 
 == Processi aziendali
 
+Durante il mio tirocinio presso Kirey Group, ho avuto modo di osservare da vicino l'organizzazione interna dell'azienda e i processi che la guidano. 
+Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo software, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata. Questo approccio richiede una gestione meticolosa delle attività, un costante aggiornamento tecnologico e una pianificazione orientata alla soddisfazione del cliente.
+
+=== Supporto Continuo ai Clienti
+
+Uno degli aspetti più rilevanti dei processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti, che operano principalmente nei settori bancario, finanziario e assicurativo. L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. Questo supporto viene gestito attraverso:
+
+- *Team di supporto*: Divisione del personale in diversi team, ciascuno specializzato in una parte del monitoraggio dei sistemi o della gestione tempestiva delle segnalazioni dei clienti.
+
+- *Sistemi di ticketing*: Il supporto viene gestito tramite piattaforme di ticketing come Jira Service Management, che consentono di tracciare ogni richiesta di assistenza. Ogni ticket viene classificato per priorità e assegnato a tecnici specializzati, garantendo tempi di risposta rapidi e conformi agli SLA (Service Level Agreement) concordati con i clienti.
+
+- *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare dashboard personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
+
+=== Metodologie di Lavoro Agile
+
+Nonostante il focus consulenziale, Kirey Group adotta metodologie Agile per la gestione delle attività e dei progetti.
+
+L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo efficiente e flessibile, anche per attività di supporto e manutenzione evolutiva.
+
+- *Daily Meeting*: Ogni giorno, i membri di un team partecipano a brevi riunioni chiamate daily stand-up meeting. Durante questi incontri, ciascun membro condivide lo stato delle attività, gli eventuali ostacoli e le priorità della giornata. Questo processo facilita una comunicazione trasparente e permette di risolvere rapidamente eventuali problemi.
+
+- *Sprint di Manutenzione*: Le attività di manutenzione e supporto sono organizzate in sprint della durata di una settimana. Ogni sprint include interventi pianificati di aggiornamento dei sistemi, miglioramenti delle infrastrutture e risoluzione di problemi ricorrenti.
+
+- *Retrospettive*: Al termine di ogni sprint, si svolge una retrospettiva per analizzare l'andamento delle attività e individuare possibili miglioramenti nei processi di supporto. Questo approccio iterativo contribuisce a ottimizzare continuamente l'efficienza dei servizi offerti ai clienti.
+
 //###############################################################################################################################
 
 == Tecnologie utilizzate
