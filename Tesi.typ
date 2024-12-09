@@ -30,7 +30,7 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
 
 = Contesto organizzativo
 
-== Presentazione e struttura dell'Azienda
+== Presentazione e struttura dell'azienda
 
 Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
     
@@ -50,12 +50,11 @@ Un'esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, du
 
 //###############################################################################################################################
 
-== Processi Aziendali
-Descrizione dei processi interni di sviluppo, manutenzione e gestione delle attività. Saranno inclusi aspetti come metodologie di lavoro, pianificazione e approccio alla risoluzione dei problemi.
+== Processi aziendali
 
 //###############################################################################################################################
 
-== Tecnologie Utilizzate
+== Tecnologie utilizzate
 Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo stack ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
 
 - *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente insight dettagliati;
@@ -78,7 +77,7 @@ Oltre all'ELK stack, Kirey Group utilizza una vasta gamma di tecnologie secondar
 
 - *Java* e framework come *Spring Boot* per lo sviluppo back-end di applicazioni;
 - *React* per lo sviluppo di interfacce utente;
-- *Docker* e *Kubernetes* per la creazione di container e l'orchestrazione delle applicazioni, andando a migliorarne il deployment e la scalabilità delle stesse.
+- *Docker* e *Kubernetes* per la creazione di container e la gestione delle applicazioni, andando a migliorarne il deployment e la scalabilità delle stesse.
 
 === Panoramica delle piattaforme di lavoro
 
@@ -93,8 +92,22 @@ Queste piattaforme assicurano una gestione efficace delle informazioni, una comu
 
 //###############################################################################################################################
 
-== Approccio all'Innovazione
-Analisi del ruolo dell'innovazione in azienda, (ho chiesto esempi concreti di come vengono promosse nuove idee o miglioramenti tecnologici) inclusi eventuali progetti di ricerca e sviluppo o collaborazioni con altre realtà.
+== Approccio all'innovazione
+
+Uno degli aspetti fondamentali della strategia aziendale di Kirey Group è l'innovazione.
+Essa viene perseguita in modo sistematico e non significa solo sviluppo tecnologico, ma anche costante miglioramento dei processi interni e della cultura organizzativa.
+
+Nel corso del tirocinio, ho potuto notare come Kirey Group consideri l'innovazione un processo continuo, che entra in ogni aspetto delle attività aziendali.
+Questo approccio si concretizza attraverso l'investimento continuo per l'adozione di nuove tecnologie, il miglioramento costante dei processi interni e la promozione di una cultura organizzativa aperta al cambiamento. 
+In particolare, ho potuto osservare l'importanza attribuita a:
+
+- *Innovazione tecnologica*: l'azienda cerca costantemente di rimanere al passo con le più moderne tecnologie, in particolare riguardanti big data analytics e machine learning. Nell'ambito del progetto di sviluppo dell'applicazione alla quale io sono stato assegnato, sono stato in grado di lavorare con strumenti di Elasticsearch e Kibana e analizzare e rappresentare grandi quantità di dati;
+
+- *Innovazione nei processi* : ho potuto partecipare, seppure da esterno, a riunioni di sprint e sessioni di pianificazione, utilizzando la metodologia Agile, e lo sviluppo basato su attività come Scrum e CI/CD. Esse aiutano a rendere il processo più efficiente e flessibile;
+
+- *Formazione costante*: a seguito di colloqui avuti con alcuni colleghi è emerso che l'azienda, specialmente nei primi anni dall'assunzione, offre una vasta gamma di opportunità formative e di studio da svolgere durante l'orario di lavoro.
+
+//###############################################################################################################################
 
 #pagebreak()
 
