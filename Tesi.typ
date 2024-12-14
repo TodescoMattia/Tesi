@@ -40,36 +40,37 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
   label: <Kl>
 )
 
-Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
-    
-L'azienda offre supporto alle imprese in vari settori, tra cui finanza, sanità, telecomunicazioni, energia e industria, con competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica e all'analisi dei dati. 
+Kirey Group è una società italiana di consulenza IT e informatica, fondata nel 2017, con una rete che conta oltre 850 dipendenti. L'azienda ha sedi in diverse città italiane, tra cui Milano, Padova, Roma e Torino, e uffici internazionali in Spagna, Portogallo e nell'Europa dell'Est.
 
-La missione di Kirey Group è quella di aiutare i clienti ad ottimizzare i processi aziendali e a migliorare la competitività attraverso soluzioni digitali innovative.
+Kirey Group supporta le imprese offrendo competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica, fino all'analisi dei dati.
 
+La missione dell'azienda è di aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
 //###############################################################################################################################
 
 == Clientela
 
-Kirey Group collabora principalmente con clienti, sia privati che pubblici, provenienti dal settore bancario, finanziario e assicurativo, a cui offre soluzioni tecnologiche e servizi di consulenza mirati. 
+Kirey Group collabora principalmente con clienti, sia privati che pubblici, provenienti dal settore bancario, finanziario e assicurativo, a cui offre soluzioni tecnologiche ad hoc e servizi di consulenza mirati. 
 
 Le istituzioni finanziarie rappresentano una parte significativa della clientela dell'azienda, grazie alla loro necessità costante di innovare, migliorare l'efficienza operativa e rispettare stringenti normative di conformità.
 
-Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, l'azienda si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
+Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, il gruppo si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
 
 //###############################################################################################################################
 
 == Processi aziendali
 
-Durante il mio tirocinio presso Kirey Group, ho avuto modo di osservare da vicino l'organizzazione interna dell'azienda e i processi che la guidano. 
-Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo _software_, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata.
+=== Introduzione
+
+Durante il mio tirocinio presso Kirey Group, ho avuto modo di osservare da vicino l'organizzazione interna dell'azienda e i processi che la caratterizzano. 
+Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa principalmente di sviluppo _software_, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata.
 Questo approccio richiede una gestione meticolosa delle attività, un costante aggiornamento tecnologico e una pianificazione orientata alla soddisfazione del cliente.
 
 === Supporto continuo ai clienti
 
-Uno degli aspetti più rilevanti dei processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
+Uno degli aspetti più rilevanti che caratterizzano i processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
 L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. 
 
-Personalmente sono stato inserito nella _Business line_ denominata "APM" ovvero "_Application performance monitoring_", e più precisamente nel gruppo "DBA" ovvero "_Database assesment_" che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
+Personalmente sono stato inserito nella _Business line_ denominata "_Application performance monitoring_" (APM), e più precisamente nel gruppo "_Database assesment_" (DBA) che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
 
 Questo supporto viene gestito attraverso:
 
@@ -94,6 +95,9 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 //###############################################################################################################################
 
 == Tecnologie utilizzate
+
+=== Tecnologie primarie
+
 Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo _stack_ ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
 
 #showImageWithSource(
@@ -148,7 +152,7 @@ Nel corso del tirocinio, ho potuto notare come Kirey Group consideri l'innovazio
 Questo approccio si concretizza attraverso l'investimento continuo per l'adozione di nuove tecnologie, il miglioramento costante dei processi interni e la promozione di una cultura organizzativa aperta al cambiamento. 
 In particolare, ho potuto osservare l'importanza attribuita a:
 
-- *Innovazione tecnologica*: l'azienda cerca costantemente di rimanere al passo con le più moderne tecnologie, in particolare riguardanti big data analytics e machine learning. Nell'ambito del progetto di sviluppo dell'applicazione alla quale io sono stato assegnato, sono stato in grado di lavorare con strumenti di Elasticsearch e Kibana e analizzare e rappresentare grandi quantità di dati;
+- *Innovazione tecnologica*: l'azienda cerca costantemente di rimanere al passo con le più moderne tecnologie, in particolare riguardanti big data analytics e machine learning. Nell'ambito del progetto di sviluppo dell'applicazione alla quale io sono stato assegnato, sono stato in grado di lavorare con strumenti avanzati e tecnologicamente "nuovi" di Elasticsearch e Kibana e analizzare e rappresentare grandi quantità di dati;
 
 - *Innovazione nei processi* : ho potuto partecipare, seppure da esterno, a riunioni di sprint e sessioni di pianificazione, utilizzando la metodologia Agile, e lo sviluppo basato su attività come Scrum e CI/CD. Esse aiutano a rendere il processo più efficiente e flessibile;
 
