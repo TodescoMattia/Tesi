@@ -68,6 +68,7 @@ Questo approccio richiede una gestione meticolosa delle attività, un costante a
 
 Uno degli aspetti più rilevanti dei processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
 L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. 
+
 Personalmente sono stato inserito nella _Business line_ denominata "APM" ovvero "_Application performance monitoring_", e più precisamente nel gruppo "DBA" ovvero "_Database assesment_" che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
 
 Questo supporto viene gestito attraverso:
