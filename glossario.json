@@ -63,5 +63,55 @@
     "description": "Strumento di gestione dei progetti sviluppato da Atlassian, utilizzato per il tracking dei bug, la gestione delle attività e lo sviluppo Agile. Jira offre funzionalità avanzate per pianificare, monitorare e rilasciare software con maggiore efficienza.",
     "acronyms": [],
     "synonyms": ["jira", "Jira"]
+  },
+  "Kibana": {
+    "description": "Strumento di visualizzazione dati che lavora con Elasticsearch per esplorare e visualizzare dati tramite dashboard interattive.",
+    "acronyms": [],
+    "synonyms": ["kibana", "Kibana"]
+  },
+  "Kubernetes": {
+    "description": "Sistema open-source per l'orchestrazione e la gestione automatizzata di container su larga scala.",
+    "acronyms": ["K8s"],
+    "synonyms": ["kubernetes", "Kubernetes", "K8s"]
+  },
+  "Logstash": {
+    "description": "Strumento per l'elaborazione dei log, utile per raccogliere, trasformare e inviare dati a Elasticsearch.",
+    "acronyms": [],
+    "synonyms": ["logstash", "Logstash"]
+  },
+  "React": {
+    "description": "Libreria JavaScript sviluppata da Facebook per creare interfacce utente dinamiche e componenti riutilizzabili per applicazioni web.",
+    "acronyms": [],
+    "synonyms": ["react", "React"]
+  },
+  "Scrum": {
+    "description": "Framework Agile per la gestione dei progetti complessi, che si basa su iterazioni brevi (Sprint) e su ruoli definiti come Scrum Master, Product Owner e Development Team.",
+    "acronyms": [],
+    "synonyms": ["scrum", "Scrum"]
+  },
+  "SLA": {
+    "description": "Accordo formale tra fornitore e cliente che definisce il livello di servizio atteso, inclusi tempi di risposta, disponibilità e qualità del servizio.",
+    "acronyms": [],
+    "synonyms": ["sla", "SLA"]
+  },
+  "Spring Boot": {
+    "description": "Framework Java open-source basato su Spring che facilita lo sviluppo di applicazioni stand-alone e pronte per la produzione con configurazione minimale.",
+    "acronyms": [],
+    "synonyms": ["spring boot", "Spring Boot"]
+  },
+  "Sprint": {
+    "description": "Periodo di tempo definito, solitamente da 1 a 4 settimane, durante il quale il team Scrum sviluppa un incremento di prodotto funzionante.",
+    "acronyms": [],
+    "synonyms": ["sprint", "Sprint"]
+  },
+  "Teams": {
+    "description": "Piattaforma di collaborazione sviluppata da Microsoft che include chat, videoconferenze, condivisione di file e integrazione con altre applicazioni di Microsoft 365.",
+    "acronyms": [],
+    "synonyms": ["Teams", "Microsoft Teams"]
+  },
+  "Version Control": {
+    "description": "Sistema che registra le modifiche ai file nel tempo, permettendo di ripristinare versioni precedenti e collaborare in modo efficiente.",
+    "acronyms": [],
+    "synonyms": ["version control", "Version Control"]
   }
 }
