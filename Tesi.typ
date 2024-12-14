@@ -6,7 +6,7 @@
 
 Il presente documento è stato redatto allo scopo di illustrare l'esperienza di tirocinio svolta presso l'azienda Kirey Group da Mattia Todesco, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
 
-L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi in questione. 
+L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric, un programma di monitoraggio rete, ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi in questione. 
 
 Il documento si articola in quattro capitoli principali:
 
@@ -50,18 +50,18 @@ La missione di Kirey Group è quella di aiutare i clienti ad ottimizzare i proce
 
 == Clientela
 
-Kirey Group collabora principalmente con clienti provenienti dal settore bancario, finanziario e assicurativo, a cui offre soluzioni tecnologiche e servizi di consulenza mirati. 
+Kirey Group collabora principalmente con clienti, sia privati che pubblici, provenienti dal settore bancario, finanziario e assicurativo, a cui offre soluzioni tecnologiche e servizi di consulenza mirati. 
 
 Le istituzioni finanziarie rappresentano una parte significativa della clientela dell'azienda, grazie alla loro necessità costante di innovare, migliorare l'efficienza operativa e rispettare stringenti normative di conformità.
 
-Un'esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia.
+Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, l'azienda si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
 
 //###############################################################################################################################
 
 == Processi aziendali
 
 Durante il mio tirocinio presso Kirey Group, ho avuto modo di osservare da vicino l'organizzazione interna dell'azienda e i processi che la guidano. 
-Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo software, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata.
+Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo _software_, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata.
 Questo approccio richiede una gestione meticolosa delle attività, un costante aggiornamento tecnologico e una pianificazione orientata alla soddisfazione del cliente.
 
 === Supporto continuo ai clienti
@@ -93,12 +93,12 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 //###############################################################################################################################
 
 == Tecnologie utilizzate
-Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo stack ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
+Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo _stack_ ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
 
 #showImageWithSource(
   imagePath: "/assets/ELK.png",
   imageWidth: auto,
-  caption: [stack Elastic],
+  caption: [_stack_ Elastic],
   source: "https://www.elastic.co",
   label: <ELK>
 )
@@ -119,11 +119,11 @@ Questo _stack_ di applicativi permette all'azienda di offrire:
 
 ===  Tecnologie secondarie
 
-Oltre all'ELK stack, Kirey Group utilizza una vasta gamma di tecnologie secondarie che vengono utilizzate al bisogno, tra cui:
+Oltre all'ELK _stack_, Kirey Group utilizza una vasta gamma di tecnologie secondarie che vengono utilizzate al bisogno, tra cui:
 
 - *Java* e framework come *Spring Boot* per lo sviluppo _back-end_ di applicazioni;
 - *React* per lo sviluppo di interfacce utente;
-- *Docker* e *Kubernetes* per la creazione di container e la gestione delle applicazioni, andando a migliorarne il _deployment_ e la scalabilità delle stesse.
+- *Docker* e *Kubernetes* per la creazione di _container_ e la gestione delle applicazioni, andando a migliorarne il _deployment_ e la scalabilità delle stesse.
 
 === Panoramica delle piattaforme di lavoro
 
