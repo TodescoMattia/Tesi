@@ -1,22 +1,117 @@
 {
-    "Agile": {
-      "description": "Metodologia di sviluppo software che prevede la realizzazione di progetti in modo iterativo e incrementale, con particolare attenzione alla collaborazione tra i membri del team e alla risposta rapida ai cambiamenti.",
-      "acronyms": [],
-      "synonyms": []
-    },
-    "Application Programming Interface": {
-      "description": "Insieme di regole e protocolli che consente la comunicazione standardizzata tra software distinti. Definisce le modalità di scambio e le strutture dati scambiate durante la comunicazione.",
-      "acronyms": ["API"],
-      "synonyms": []
-    },
-    "Backlog": {
-      "description": "Gruppo di attività da completare per conseguire un certo obiettivo.",
-      "acronyms": [],
-      "synonyms": []
-    },
-    "Bitbucket": {
-      "description": "Software di versionamento distribuito utilizzabile tramite linea di comando.",
-      "acronyms": [],
-      "synonyms": []
-    }
+  "Agile": {
+    "description": "Metodologia di sviluppo software che prevede la realizzazione di progetti in modo iterativo e incrementale, con particolare attenzione alla collaborazione tra i membri del team e alla risposta rapida ai cambiamenti.",
+    "acronyms": [],
+    "synonyms": ["agile", "Agile"]
+  },
+  "Application Programming Interface": {
+    "description": "Insieme di regole e protocolli che consente la comunicazione standardizzata tra software distinti. Definisce le modalità di scambio e le strutture dati scambiate durante la comunicazione.",
+    "acronyms": ["API"],
+    "synonyms": ["application programming interface", "Application Programming Interface", "API"]
+  },
+  "Backlog": {
+    "description": "Gruppo di attività da completare per conseguire un certo obiettivo.",
+    "acronyms": [],
+    "synonyms": ["backlog", "Backlog"]
+  },
+  "Bitbucket": {
+    "description": "Software di versionamento distribuito che consente di gestire repository Git e Mercurial con funzionalità di collaborazione integrate.",
+    "acronyms": [],
+    "synonyms": ["bitbucket", "Bitbucket"]
+  },
+  "CI/CD": {
+    "description": "Pratiche di Continuous Integration (CI) e Continuous Delivery (CD) che automatizzano l'integrazione del codice e il rilascio continuo delle applicazioni.",
+    "acronyms": [],
+    "synonyms": ["Continuous Integration and Delivery"]
+  },
+  "Confluence": {
+    "description": "Strumento di collaborazione sviluppato da Atlassian per la documentazione, la gestione delle conoscenze e la creazione di wiki aziendali.",
+    "acronyms": [],
+    "synonyms": ["confluence", "Confluence"]
+  },
+  "Dashboard": {
+    "description": "Interfaccia visiva che fornisce una panoramica dei dati chiave e delle metriche rilevanti per il monitoraggio delle performance o dei progressi di un progetto.",
+    "acronyms": [],
+    "synonyms": ["dashboard", "Dashboard", "dashboards", "Dashboards"]
+  },
+  "Docker": {
+    "description": "Piattaforma per lo sviluppo, il deployment e l'esecuzione di applicazioni in container, garantendo portabilità e consistenza tra ambienti.",
+    "acronyms": [],
+    "synonyms": ["docker", "Docker"]
+  },
+  "ELK": {
+    "description": "Suite composta da Elasticsearch, Logstash e Kibana utilizzata per la ricerca, analisi e visualizzazione dei log in tempo reale.",
+    "acronyms": [],
+    "synonyms": []
+  },
+  "Elasticsearch": {
+    "description": "Motore di ricerca e analisi distribuito, utile per cercare e visualizzare dati in tempo reale.",
+    "acronyms": [],
+    "synonyms": ["elasticsearch", "Elasticsearch"]
+  },
+  "IPfabric": {
+    "description": "Piattaforma di automazione della rete che fornisce visibilità e analisi avanzate per l'infrastruttura di rete.",
+    "acronyms": [],
+    "synonyms": ["ipfabric", "IPfabric"]
+  },
+  "Java": {
+    "description": "Linguaggio di programmazione orientato agli oggetti, ampiamente utilizzato per applicazioni aziendali, mobili e server-side, noto per la sua portabilità grazie alla JVM (Java Virtual Machine).",
+    "acronyms": [],
+    "synonyms": ["java", "Java"]
+  },
+  "Jira": {
+    "description": "Strumento di gestione dei progetti sviluppato da Atlassian, utilizzato per il tracking dei bug, la gestione delle attività e lo sviluppo Agile.",
+    "acronyms": [],
+    "synonyms": ["jira", "Jira"]
+  },
+  "Kibana": {
+    "description": "Strumento di visualizzazione dati che lavora con Elasticsearch per esplorare e visualizzare dati tramite dashboard interattive.",
+    "acronyms": [],
+    "synonyms": ["kibana", "Kibana"]
+  },
+  "Kubernetes": {
+    "description": "Sistema open-source per l'orchestrazione e la gestione automatizzata di container su larga scala.",
+    "acronyms": ["K8s"],
+    "synonyms": ["kubernetes", "Kubernetes", "K8s"]
+  },
+  "Logstash": {
+    "description": "Strumento per l'elaborazione dei log, utile per raccogliere, trasformare e inviare dati a Elasticsearch.",
+    "acronyms": [],
+    "synonyms": ["logstash", "Logstash"]
+  },
+  "React": {
+    "description": "Libreria JavaScript sviluppata da Facebook per creare interfacce utente dinamiche e componenti riutilizzabili per applicazioni web.",
+    "acronyms": [],
+    "synonyms": ["react", "React"]
+  },
+  "Scrum": {
+    "description": "Framework Agile per la gestione dei progetti complessi, che si basa su iterazioni brevi (Sprint) e su ruoli definiti come Scrum Master, Product Owner e Development Team.",
+    "acronyms": [],
+    "synonyms": ["scrum", "Scrum"]
+  },
+  "SLA": {
+    "description": "Accordo formale tra fornitore e cliente che definisce il livello di servizio atteso, inclusi tempi di risposta, disponibilità e qualità del servizio.",
+    "acronyms": [],
+    "synonyms": ["sla", "SLA"]
+  },
+  "Spring Boot": {
+    "description": "Framework Java open-source basato su Spring che facilita lo sviluppo di applicazioni stand-alone e pronte per la produzione con configurazione minimale.",
+    "acronyms": [],
+    "synonyms": ["spring boot", "Spring Boot"]
+  },
+  "Sprint": {
+    "description": "Periodo di tempo definito, solitamente da 1 a 4 settimane, durante il quale il team Scrum sviluppa un incremento di prodotto funzionante.",
+    "acronyms": [],
+    "synonyms": ["sprint", "Sprint"]
+  },
+  "Teams": {
+    "description": "Piattaforma di collaborazione sviluppata da Microsoft che include chat, videoconferenze, condivisione di file e integrazione con altre applicazioni di Microsoft 365.",
+    "acronyms": [],
+    "synonyms": ["Teams", "Microsoft Teams"]
+  },
+  "Version Control": {
+    "description": "Sistema che registra le modifiche ai file nel tempo, permettendo di ripristinare versioni precedenti e collaborare in modo efficiente.",
+    "acronyms": [],
+    "synonyms": ["version control", "Version Control"]
+  }
 }

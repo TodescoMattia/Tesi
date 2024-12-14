@@ -1,4 +1,9 @@
 {
+    "Bitbucket": {
+        "url": "https://bitbucket.org/",
+        "description": "Sito web ufficiale di Bitbucket",
+        "date": [5, 10, 24]
+    },
     "Elastic": {
         "url": "https://www.elastic.co",
         "description": "Sito web ufficiale della suite Elastic",
@@ -23,5 +28,15 @@
         "url": "https://www.kireygroup.com/",
         "description": "Sito web ufficiale di Kirey",
         "date": [2, 10, 24]
+    },
+    "React": {
+        "url": "https://react.dev/",
+        "description": "Sito web ufficiale di React",
+        "date": [5, 10, 24]
+    },
+    "Spring Boot": {
+        "url": "https://spring.io/projects/spring-boot",
+        "description": "Sito web ufficiale di Spring Boot",
+        "date": [5, 10, 24]
     }
 }

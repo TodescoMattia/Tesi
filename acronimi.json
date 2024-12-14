@@ -1,13 +1,17 @@
 {
-    "API": "Application Programming Interface",
-    "CRUD": "Create, Read, Update, Delete",
-    "OA": "Obiettivi aziendali",
-    "OA-OB": "Obiettivi aziendali obbligatori",
-    "OA-D": "Obiettivi aziendali desiderabili",
-    "OA-OP": "Obiettivi aziendali opzionali",
-    "OP": "Obiettivi personali",
-    "IDE": "Integrated Development Environment",
-    "ITS": "Issue Tracking System",
-    "REST": "Representational State Transfer",
-    "UC": "Use Case"
-  }
+  "API": "Application Programming Interface",
+  "CRUD": "Create, Read, Update, Delete",
+  "OA": "Obiettivi aziendali",
+  "OA-OB": "Obiettivi aziendali obbligatori",
+  "OA-D": "Obiettivi aziendali desiderabili",
+  "OA-OP": "Obiettivi aziendali opzionali",
+  "OP": "Obiettivi personali",
+  "IDE": "Integrated Development Environment",
+  "ITS": "Issue Tracking System",
+  "REST": "Representational State Transfer",
+  "UC": "Use Case",
+  "SLA": "Service Level Agreement",
+  "ELK": "Elasticsearch, Logstash, Kibana",
+  "K8s": "Kubernetes",
+  "CI/CD": "Continuous Integration and Continuous Delivery"
+}

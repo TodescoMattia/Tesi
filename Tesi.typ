@@ -6,12 +6,12 @@
 
 Il presente documento è stato redatto allo scopo di illustrare l'esperienza di tirocinio svolta presso l'azienda Kirey Group da Mattia Todesco, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
 
-L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi di rete. 
+L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi in questione. 
 
 Il documento si articola in quattro capitoli principali:
 
     - Contesto organizzativo: descrive il contesto organizzativo e produttivo dell'azienda Kirey group in cui il tirocinante è stato inserito;
-    - Obiettivi dello stage: presenta il progetto assegnato, il ruolo del tirocinante e le motivazioni alla base della sua scelta;
+    - Obiettivi dello _stage_: presenta il progetto assegnato, il ruolo del tirocinante e le motivazioni alla base della sua scelta;
     - Svolgimento del progetto: illustra il metodo di lavoro adottato, le attività svolte e i risultati conseguiti;
     - Valutazione dell'esperienza: riporta le considerazioni finali del tirocinante sull'esperienza e sulle competenze acquisite.
 
@@ -31,6 +31,14 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
 = Contesto organizzativo
 
 == Presentazione e struttura dell'azienda
+
+#showImageWithSource(
+  imagePath: "/assets/Kirey_logo.jpg",
+  imageWidth: auto,
+  caption: [Logo di Kirey group],
+  source: "https://www.kireygroup.com",
+  label: <Kl>
+)
 
 Kirey Group è un'azienda italiana di informatica e consulenza IT fondata nel 2017, con una rete di oltre 850 dipendenti distribuiti in sedi italiane come Milano, Padova, Roma e Torino, e in uffici internazionali in Spagna, Portogallo e Europa dell'Est. 
     
@@ -53,25 +61,30 @@ Un'esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, du
 == Processi aziendali
 
 Durante il mio tirocinio presso Kirey Group, ho avuto modo di osservare da vicino l'organizzazione interna dell'azienda e i processi che la guidano. 
-Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo software, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata. Questo approccio richiede una gestione meticolosa delle attività, un costante aggiornamento tecnologico e una pianificazione orientata alla soddisfazione del cliente.
+Essendo una realtà specializzata in consulenza e servizi IT, Kirey non si occupa esclusivamente di sviluppo software, ma concentra una parte significativa delle sue attività nel fornire supporto e soluzioni ai clienti, garantendo un'assistenza continua e personalizzata.
+Questo approccio richiede una gestione meticolosa delle attività, un costante aggiornamento tecnologico e una pianificazione orientata alla soddisfazione del cliente.
 
-=== Supporto Continuo ai Clienti
+=== Supporto continuo ai clienti
 
-Uno degli aspetti più rilevanti dei processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti, che operano principalmente nei settori bancario, finanziario e assicurativo. L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. Questo supporto viene gestito attraverso:
+Uno degli aspetti più rilevanti dei processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
+L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. 
+Personalmente sono stato inserito nella _Business line_ denominata "APM" ovvero "_Application performance monitoring_", e più precisamente nel gruppo "DBA" ovvero "_Database assesment_" che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
 
-- *Team di supporto*: Divisione del personale in diversi team, ciascuno specializzato in una parte del monitoraggio dei sistemi o della gestione tempestiva delle segnalazioni dei clienti.
+Questo supporto viene gestito attraverso:
 
-- *Sistemi di ticketing*: Il supporto viene gestito tramite piattaforme di ticketing come Jira Service Management, che consentono di tracciare ogni richiesta di assistenza. Ogni ticket viene classificato per priorità e assegnato a tecnici specializzati, garantendo tempi di risposta rapidi e conformi agli SLA (Service Level Agreement) concordati con i clienti.
+- *_Team_ di supporto*: Divisione del personale in diversi team, ciascuno specializzato in una parte del monitoraggio dei sistemi o della gestione tempestiva delle segnalazioni dei clienti.
+
+- *Sistemi di _ticketing_*: Il supporto viene gestito tramite piattaforme di _ticketing_ come Jira Service Management, che consentono di tracciare ogni richiesta di assistenza. Ogni _ticket_ viene classificato per priorità e assegnato a tecnici specializzati, garantendo tempi di risposta rapidi e conformi agli SLA (_Service Level Agreement_) concordati con i clienti.
 
 - *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare dashboard personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
 
-=== Metodologie di Lavoro Agile
+=== Metodologie di lavoro agile
 
 Nonostante il focus consulenziale, Kirey Group adotta metodologie Agile per la gestione delle attività e dei progetti.
 
 L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo efficiente e flessibile, anche per attività di supporto e manutenzione evolutiva.
 
-- *Daily Meeting*: Ogni giorno, i membri di un team partecipano a brevi riunioni chiamate daily stand-up meeting. Durante questi incontri, ciascun membro condivide lo stato delle attività, gli eventuali ostacoli e le priorità della giornata. Questo processo facilita una comunicazione trasparente e permette di risolvere rapidamente eventuali problemi.
+- *_Daily Meeting_*: Ogni giorno, i membri di un team partecipano a brevi riunioni chiamate _daily stand-up meeting_. Durante questi incontri, ciascun membro condivide lo stato delle attività, gli eventuali ostacoli e le priorità della giornata. Questo processo facilita una comunicazione trasparente e permette di risolvere rapidamente eventuali problemi.
 
 - *Sprint di Manutenzione*: Le attività di manutenzione e supporto sono organizzate in sprint della durata di una settimana. Ogni sprint include interventi pianificati di aggiornamento dei sistemi, miglioramenti delle infrastrutture e risoluzione di problemi ricorrenti.
 
@@ -82,13 +95,21 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 == Tecnologie utilizzate
 Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo stack ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
 
+#showImageWithSource(
+  imagePath: "/assets/ELK.png",
+  imageWidth: auto,
+  caption: [stack Elastic],
+  source: "https://www.elastic.co",
+  label: <ELK>
+)
+
 - *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente insight dettagliati;
 
 - *Logstash* viene utilizzato per l'elaborazione e la trasformazione dei dati prima che vengano indicizzati in Elasticsearch. Facilita la raccolta, l'arricchimento e la normalizzazione dei dati da diverse fonti, semplificando la gestione di flussi complessi di dati;
 
 - *Kibana* fornisce interfacce di visualizzazione intuitive che consentono agli utenti di creare dashboard personalizzate per il monitoraggio e l'analisi dei dati, migliorando la visibilità operativa e supportando le decisioni aziendali.
 
-Questo stack di applicativi permette all'azienda di offrire:
+Questo _stack_ di applicativi permette all'azienda di offrire:
 
 - Monitoraggio e analisi dei log delle applicazioni per la rilevazione di potenziali anomalie e comportamenti sospetti;
 
@@ -100,9 +121,9 @@ Questo stack di applicativi permette all'azienda di offrire:
 
 Oltre all'ELK stack, Kirey Group utilizza una vasta gamma di tecnologie secondarie che vengono utilizzate al bisogno, tra cui:
 
-- *Java* e framework come *Spring Boot* per lo sviluppo back-end di applicazioni;
+- *Java* e framework come *Spring Boot* per lo sviluppo _back-end_ di applicazioni;
 - *React* per lo sviluppo di interfacce utente;
-- *Docker* e *Kubernetes* per la creazione di container e la gestione delle applicazioni, andando a migliorarne il deployment e la scalabilità delle stesse.
+- *Docker* e *Kubernetes* per la creazione di container e la gestione delle applicazioni, andando a migliorarne il _deployment_ e la scalabilità delle stesse.
 
 === Panoramica delle piattaforme di lavoro
 
@@ -113,14 +134,14 @@ Kirey Group adotta inoltre alcune piattaforme collaborative e strumenti di produ
 - *Jira* per la gestione delle attività e la pianificazione degli sprint;
 - *Bitbucket* per il version control e l'integrazione continua (CI/CD).
 
-Queste piattaforme assicurano una gestione efficace delle informazioni, una comunicazione fluida e un'alta produttività, sia per i team in ufficio che per quelli in modalità remota.
+Queste piattaforme assicurano una gestione efficace delle informazioni, una comunicazione fluida e un'alta produttività, sia per i _team_ in ufficio che per quelli in modalità remota.
 
 //###############################################################################################################################
 
 == Approccio all'innovazione
 
 Uno degli aspetti fondamentali della strategia aziendale di Kirey Group è l'innovazione.
-Essa viene perseguita in modo sistematico e non significa solo sviluppo tecnologico, ma anche costante miglioramento dei processi interni e della cultura organizzativa.
+Essa viene perseguita in modo sistematico e non si riversa solo nello sviluppo tecnologico, ma anche nel costante miglioramento dei processi interni e della cultura organizzativa.
 
 Nel corso del tirocinio, ho potuto notare come Kirey Group consideri l'innovazione un processo continuo, che entra in ogni aspetto delle attività aziendali.
 Questo approccio si concretizza attraverso l'investimento continuo per l'adozione di nuove tecnologie, il miglioramento costante dei processi interni e la promozione di una cultura organizzativa aperta al cambiamento. 
