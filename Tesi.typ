@@ -30,7 +30,7 @@ In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e 
 
 = Contesto organizzativo
 
-== Presentazione e struttura dell'azienda
+== Presentazione dell'azienda
 
 #showImageWithSource(
   imagePath: "/assets/Kirey_logo.jpg",
@@ -98,7 +98,7 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 
 === Tecnologie primarie
 
-Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo _stack_ ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
+Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare è lo _stack_ ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
 
 #showImageWithSource(
   imagePath: "/assets/ELK.png",
@@ -108,7 +108,7 @@ Una delle soluzioni tecnologiche principali adottate da Kirey Group è lo _stack
   label: <ELK>
 )
 
-- *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente insight dettagliati;
+- *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente _insight_ dettagliati;
 
 - *Logstash* viene utilizzato per l'elaborazione e la trasformazione dei dati prima che vengano indicizzati in Elasticsearch. Facilita la raccolta, l'arricchimento e la normalizzazione dei dati da diverse fonti, semplificando la gestione di flussi complessi di dati;
 
