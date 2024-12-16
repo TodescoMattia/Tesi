@@ -12,9 +12,9 @@ Kirey Group è una società italiana di consulenza IT e informatica, fondata nel
 
 Durante il mio tirocinio presso Kirey Group, ho potuto osservare da vicino l'offerta dell'azienda verso i clienti. L'approccio di Kirey Group copre molteplici aspetti per le moderne realtà aziendali, tra cui:
 
-- *Gestione delle infrastrutture IT*: Kirey Group si occupa di progettare, implementare e mantenere infrastrutture tecnologiche robuste e scalabili. Offre servizi di monitoraggio continuo, gestione dei server, ottimizzazione delle reti e supporto tecnico per garantire l'efficienza operativa delle infrastrutture informatiche aziendali;
+- *Gestione delle infrastrutture IT*: Kirey Group si occupa di progettare, implementare e mantenere infrastrutture tecnologiche. Offre servizi di monitoraggio continuo, gestione dei server, ottimizzazione delle reti e supporto tecnico per garantire l'efficienza operativa delle infrastrutture informatiche aziendali;
 
-- *Sicurezza informatica*: L'azienda sviluppa e implementa soluzioni avanzate di _cybersecurity_, come sistemi di protezione perimetrale, gestione delle identità e accessi, analisi delle vulnerabilità e risposte alle minacce. Kirey Group effettua anche _audit_ di sicurezza e simulazioni di attacchi per valutare e migliorare le difese aziendali;
+- *Sicurezza informatica*: L'azienda sviluppa e implementa soluzioni avanzate di _cybersecurity_, come gestione delle identità e accessi, analisi delle vulnerabilità e risposte alle minacce;
 
 - *Analisi dei dati*: Kirey Group realizza piattaforme di _data analytics_, crea modelli predittivi e fornisce strumenti di visualizzazione dei dati. Si occupa di raccogliere, organizzare ed elaborare grandi volumi di informazioni per estrarre informazioni significative, supportando le aziende nell'identificazione di trend e opportunità di business.
 
