@@ -42,7 +42,7 @@
   "ELK": {
     "description": "Suite composta da Elasticsearch, Logstash e Kibana, utilizzata per la ricerca, l'analisi e la visualizzazione dei log in tempo reale. ELK è ampiamente usata per monitorare e analizzare grandi volumi di dati generati da applicazioni e infrastrutture.",
     "acronyms": [],
-    "synonyms": []
+    "synonyms": ["elastic", "Elastic"]
   },
   "Elasticsearch": {
     "description": "Motore di ricerca e analisi distribuito, utile per cercare e visualizzare dati in tempo reale. Elasticsearch è progettato per offrire ricerche veloci e scalabili, ideale per applicazioni di analisi dei log, monitoraggio e ricerca full-text.",

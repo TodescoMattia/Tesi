@@ -103,7 +103,7 @@ Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho a
 #showImageWithSource(
   imagePath: "/assets/ELK.png",
   imageWidth: auto,
-  caption: [_stack_ Elastic],
+  caption: [_Stack_ Elastic],
   source: "https://www.elastic.co",
   label: <ELK>
 )
