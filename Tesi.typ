@@ -66,7 +66,7 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 
 === Tecnologie primarie
 
-Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare è lo _stack_ *ELK* (Elasticsearch, Logstash, Kibana), una _suite_ di strumenti _open-source_ utilizzata per la gestione e l'analisi dei dati, ideale nei progetti che l'azienda si offre ai clienti:
+Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare durante la mia esperienza è lo _stack_ *ELK* (Elasticsearch, Logstash, Kibana), una _suite_ di strumenti _open-source_ utilizzata per la gestione e l'analisi dei dati, ideale nei progetti che l'azienda si offre ai clienti:
 
 #showImageWithSource(
   imagePath: "/assets/ELK.png",
@@ -76,13 +76,13 @@ Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho a
   label: <ELK>
 )
 
-- *Elasticsearch* è un motore di ricerca e analisi distribuito, progettato per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. È ideale per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente _insight_ dettagliati attraverso _query_ veloci e potenti.
+- *Elasticsearch* è un motore di ricerca e analisi distribuito, progettato per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. È ideale per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente _insight_ dettagliati delle loro applicazioni e dell'uso che ne viene fatto attraverso _query_ veloci e potenti.
 
 - *Logstash* è uno strumento per l'elaborazione e la trasformazione dei dati prima che questi vengano indicizzati in Elasticsearch. Permette di raccogliere dati da diverse fonti, arricchirli e normalizzarli attraverso _pipeline_ configurabili, facilitando la gestione di flussi di dati complessi. 
 
 - *Kibana* è un'interfaccia grafica per la visualizzazione e l'analisi dei dati presenti in Elasticsearch. Consente agli utenti di creare _dashboard_ personalizzate e visualizzazioni interattive per monitorare i dati in tempo reale, migliorando la visibilità operativa e supportando decisioni aziendali informate.
 
-Queste tecnologie non sono utilizzate in isolamento: ho notato come l'interazione tra Logstash, Elasticsearch e Kibana sia fondamentale per fornire soluzioni complete. Ad esempio, i dati raccolti e modificati da Logstash normalmente vengono indicizzati in Elasticsearch per poi essere visualizzati in tempo reale con Kibana. Questo flusso integrato permette di individuare rapidamente anomalie o comportamenti sospetti nei log delle applicazioni.
+Queste tecnologie non vengono utilizzate in isolamento: ho notato come l'interazione tra Logstash, Elasticsearch e Kibana sia fondamentale per fornire soluzioni complete. Ad esempio, i dati raccolti e modificati da Logstash normalmente vengono indicizzati in Elasticsearch per poi essere visualizzati in tempo reale con Kibana. Questo flusso integrato permette di individuare rapidamente anomalie o comportamenti sospetti nei log delle applicazioni.
 
 Questo _stack_ permette all'azienda di offrire soluzioni per:
 
