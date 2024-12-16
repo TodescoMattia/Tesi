@@ -10,7 +10,7 @@
 
 Kirey Group è una società italiana di consulenza IT e informatica, fondata nel 2017, con una rete che conta oltre 850 dipendenti. L'azienda ha sedi in diverse città italiane, tra cui Milano, Padova, Roma e Torino, e uffici internazionali in Spagna, Portogallo e nell'Europa dell'Est.
 
-Durante il mio tirocinio presso Kirey Group, ho potuto osservare come l'azienda offra una vasta gamma di competenze e servizi. L'approccio di Kirey Group copre molteplici aspetti cruciali per le moderne realtà aziendali, tra cui:
+Durante il mio tirocinio presso Kirey Group, ho potuto osservare da vicino l'offerta dell'azienda verso i clienti. L'approccio di Kirey Group copre molteplici aspetti per le moderne realtà aziendali, tra cui:
 
 - *Gestione delle infrastrutture IT*: Kirey Group si occupa di progettare, implementare e mantenere infrastrutture tecnologiche robuste e scalabili. Offre servizi di monitoraggio continuo, gestione dei server, ottimizzazione delle reti e supporto tecnico per garantire l'efficienza operativa delle infrastrutture informatiche aziendali;
 
