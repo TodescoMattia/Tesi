@@ -12,7 +12,7 @@ Kirey Group è una società italiana di consulenza IT e informatica, fondata nel
 
 Kirey Group supporta le imprese offrendo competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica, fino all'analisi dei dati.
 
-La missione dell'azienda è quella di aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
+La missione dell'azienda aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
 //###############################################################################################################################
 
 == Clientela
@@ -21,7 +21,7 @@ Kirey Group collabora principalmente con clienti, sia privati che pubblici, prov
 
 Le istituzioni finanziarie rappresentano una parte significativa della clientela dell'azienda, grazie alla loro necessità costante di innovare, migliorare l'efficienza operativa e rispettare stringenti normative di conformità.
 
-Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF* (Centrale Rischi Finanziari), leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, il gruppo si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
+Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato *CRIF* (Centrale Rischi Finanziari), leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, il gruppo si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
 
 //###############################################################################################################################
 
@@ -38,7 +38,7 @@ Questo approccio richiede una gestione meticolosa delle attività, un costante a
 Uno degli aspetti più rilevanti che caratterizzano i processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
 L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. 
 
-Personalmente sono stato inserito nella _Business line_ denominata "_Application performance monitoring_" (APM), ovvero nel ramo dell'azienda che si occupa del monitoraggio in tempo reale delle performance e della funzionalità delle applicazioni dei clienti, e più precisamente nel gruppo "_Database assesment_" (DBA) che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
+Personalmente sono stato inserito nella _Business line_ denominata "_Application performance monitoring_" (APM), ovvero nel ramo dell'azienda che si occupa del monitoraggio in tempo reale delle prestazioni e della funzionalità delle applicazioni dei clienti, e più precisamente nel gruppo "_Database assesment_" (DBA) che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
 
 Questo supporto viene gestito attraverso:
 
@@ -46,7 +46,7 @@ Questo supporto viene gestito attraverso:
 
 - *Sistemi di _ticketing_*: Il supporto viene gestito tramite piattaforme di _ticketing_, che consentono di tracciare ogni richiesta di assistenza. Ogni _ticket_ viene classificato per priorità e assegnato al gruppo preposto per quel compito, garantendo tempi di risposta rapidi e conformi agli SLA (_Service Level Agreement_) concordati con i clienti.
 
-- *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare _dashboard_ personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
+- *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana (approfonditi nella @tecnologie) permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare _dashboard_ personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
 
 === Documentazione
 
@@ -92,9 +92,9 @@ Questa gestione strutturata delle _escalation_ assicura che ogni problema riceva
 
 //###############################################################################################################################
 
-== Tecnologie utilizzate
+== Tecnologie utilizzate <tecnologie>
 
-=== Tecnologie primarie
+=== Tecnologie principali
 
 Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare durante la mia esperienza è lo _stack_ *ELK* (Elasticsearch, Logstash, Kibana), una _suite_ di strumenti _open-source_ utilizzata per la gestione e l'analisi dei dati, ideale nei progetti che l'azienda si offre ai clienti:
 
@@ -120,7 +120,7 @@ Questo _stack_ permette all'azienda di offrire soluzioni per:
 - Supporto alla conformità con normative del settore come *PSD2* (_Payment Services Directive 2_) e *GDPR* (_General Data Protection Regulation_);
 - Ottimizzazione dell'efficienza operativa tramite _dashboard_ di monitoraggio in tempo reale.
 
-=== Tecnologie secondarie
+=== Tecnologie di supporto
 
 Oltre allo _stack_ ELK, Kirey Group utilizza diverse tecnologie complementari, scelte in base alle esigenze del progetto:
 
@@ -132,7 +132,7 @@ Oltre allo _stack_ ELK, Kirey Group utilizza diverse tecnologie complementari, s
 
 - *Kubernetes* (K8s) è un sistema per l'orchestrazione dei _container_, che automatizza il _deployment_, la gestione e la scalabilità delle applicazioni Docker.
 
-=== Panoramica delle piattaforme di lavoro
+=== Strumenti di lavoro
 
 Kirey Group adotta strumenti collaborativi per facilitare il lavoro in team e garantire un'efficace gestione dei progetti:
 

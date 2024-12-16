@@ -40,11 +40,11 @@
 
   heading("Sommario", outlined: false)
 [
-Il presente documento è stato redatto allo scopo di illustrare l'esperienza di tirocinio svolta presso l'azienda Kirey Group da Mattia Todesco, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
+Ho redatto il presente documento per illustrare la mia esperienza di tirocinio svolta presso l'azienda Kirey Group, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
 
 L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric, un programma di monitoraggio rete, ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi in questione. 
 
-Il documento si articola in quattro capitoli principali:
+Il documento si articola in quattro capitoli:
 
 - Contesto organizzativo: descrive il contesto organizzativo e produttivo dell'azienda Kirey group in cui il tirocinante è stato inserito;
 - Obiettivi dello _stage_: presenta il progetto assegnato, il ruolo del tirocinante e le motivazioni alla base della sua scelta;
