@@ -37,6 +37,31 @@
   counter(page).update(1)
 
   pagebreak()
+
+  heading("Sommario", outlined: false)
+[
+Il presente documento è stato redatto allo scopo di illustrare l'esperienza di tirocinio svolta presso l'azienda Kirey Group da Mattia Todesco, nel periodo compreso tra il 3 luglio e il 19 settembre 2024.
+
+L'obiettivo principale del progetto era lo sviluppo di una web app per la gestione dei dispositivi di una rete, integrando i dati tra IP Fabric, un programma di monitoraggio rete, ed Elasticsearch per migliorare il monitoraggio e la gestione dei dispositivi in questione. 
+
+Il documento si articola in quattro capitoli principali:
+
+- Contesto organizzativo: descrive il contesto organizzativo e produttivo dell'azienda Kirey group in cui il tirocinante è stato inserito;
+- Obiettivi dello _stage_: presenta il progetto assegnato, il ruolo del tirocinante e le motivazioni alla base della sua scelta;
+- Svolgimento del progetto: illustra il metodo di lavoro adottato, le attività svolte e i risultati conseguiti;
+- Valutazione dell'esperienza: riporta le considerazioni finali del tirocinante sull'esperienza e sulle competenze acquisite.
+
+All'interno del documento sono state adottate le seguenti convenzioni tipografiche:
+
+- i termini in lingua straniera sono resi in corsivo;
+- ogni immagine è accompagnata da una didascalia e dalla fonte di provenienza;
+- i termini riportati nel glossario sono contrassegnati con una lettera "G" in pedice.
+
+In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e una bibliografia con sitografia dei riferimenti consultati.
+]
+
+  pagebreak()
   body
+
 }
 #coverPage([]) // Invoca la funzione con un array vuoto per visualizzare la copertina.
