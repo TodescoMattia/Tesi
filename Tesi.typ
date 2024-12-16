@@ -10,9 +10,14 @@
 
 Kirey Group è una società italiana di consulenza IT e informatica, fondata nel 2017, con una rete che conta oltre 850 dipendenti. L'azienda ha sedi in diverse città italiane, tra cui Milano, Padova, Roma e Torino, e uffici internazionali in Spagna, Portogallo e nell'Europa dell'Est.
 
-Kirey Group supporta le imprese offrendo competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica, fino all'analisi dei dati.
+Durante il mio tirocinio presso Kirey Group, ho potuto osservare come l'azienda offra una vasta gamma di competenze e servizi. L'approccio di Kirey Group copre molteplici aspetti cruciali per le moderne realtà aziendali, tra cui:
 
-La missione dell'azienda aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
+- *Gestione delle infrastrutture IT*: Kirey Group si occupa di progettare, implementare e mantenere infrastrutture tecnologiche robuste e scalabili. Offre servizi di monitoraggio continuo, gestione dei server, ottimizzazione delle reti e supporto tecnico per garantire l'efficienza operativa delle infrastrutture informatiche aziendali;
+
+- *Sicurezza informatica*: L'azienda sviluppa e implementa soluzioni avanzate di _cybersecurity_, come sistemi di protezione perimetrale, gestione delle identità e accessi, analisi delle vulnerabilità e risposte alle minacce. Kirey Group effettua anche _audit_ di sicurezza e simulazioni di attacchi per valutare e migliorare le difese aziendali;
+
+- *Analisi dei dati*: Kirey Group realizza piattaforme di _data analytics_, crea modelli predittivi e fornisce strumenti di visualizzazione dei dati. Si occupa di raccogliere, organizzare ed elaborare grandi volumi di informazioni per estrarre informazioni significative, supportando le aziende nell'identificazione di trend e opportunità di business.
+
 //###############################################################################################################################
 
 == Clientela
