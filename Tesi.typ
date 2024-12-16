@@ -66,7 +66,7 @@ L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo eff
 
 === Tecnologie primarie
 
-Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare è lo _stack_ ELK (Elasticsearch, Logstash, Kibana), ampiamente utilizzato nei progetti destinati ai clienti:
+Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho avuto a che fare è lo _stack_ *ELK* (Elasticsearch, Logstash, Kibana), una _suite_ di strumenti _open-source_ utilizzata per la gestione e l'analisi dei dati, ideale nei progetti che l'azienda si offre ai clienti:
 
 #showImageWithSource(
   imagePath: "/assets/ELK.png",
@@ -76,38 +76,45 @@ Una delle soluzioni tecnologiche principali adottate da Kirey Group con cui ho a
   label: <ELK>
 )
 
-- *Elasticsearch* è un motore di ricerca e analisi distribuito, ideale per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. Viene impiegato per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente _insight_ dettagliati;
+- *Elasticsearch* è un motore di ricerca e analisi distribuito, progettato per l'indicizzazione e la ricerca di grandi volumi di dati in tempo reale. È ideale per analizzare log e dati transazionali, permettendo ai clienti di ottenere rapidamente _insight_ dettagliati attraverso _query_ veloci e potenti.
 
-- *Logstash* viene utilizzato per l'elaborazione e la trasformazione dei dati prima che vengano indicizzati in Elasticsearch. Facilita la raccolta, l'arricchimento e la normalizzazione dei dati da diverse fonti, semplificando la gestione di flussi complessi di dati;
+- *Logstash* è uno strumento per l'elaborazione e la trasformazione dei dati prima che questi vengano indicizzati in Elasticsearch. Permette di raccogliere dati da diverse fonti, arricchirli e normalizzarli attraverso _pipeline_ configurabili, facilitando la gestione di flussi di dati complessi. 
 
-- *Kibana* fornisce interfacce di visualizzazione intuitive che consentono agli utenti di creare dashboard personalizzate per il monitoraggio e l'analisi dei dati, migliorando la visibilità operativa e supportando le decisioni aziendali.
+- *Kibana* è un'interfaccia grafica per la visualizzazione e l'analisi dei dati presenti in Elasticsearch. Consente agli utenti di creare _dashboard_ personalizzate e visualizzazioni interattive per monitorare i dati in tempo reale, migliorando la visibilità operativa e supportando decisioni aziendali informate.
 
-Questo _stack_ di applicativi permette all'azienda di offrire:
+Queste tecnologie non sono utilizzate in isolamento: ho notato come l'interazione tra Logstash, Elasticsearch e Kibana sia fondamentale per fornire soluzioni complete. Ad esempio, i dati raccolti e modificati da Logstash normalmente vengono indicizzati in Elasticsearch per poi essere visualizzati in tempo reale con Kibana. Questo flusso integrato permette di individuare rapidamente anomalie o comportamenti sospetti nei log delle applicazioni.
 
-- Monitoraggio e analisi dei log delle applicazioni per la rilevazione di potenziali anomalie e comportamenti sospetti;
+Questo _stack_ permette all'azienda di offrire soluzioni per:
 
-- Supporto alla conformità alle normative del settore (come PSD2, GDPR, ecc...);
+- Monitoraggio e analisi dei log delle applicazioni per individuare potenziali anomalie e comportamenti sospetti;
+- Supporto alla conformità con normative del settore come *PSD2* (_Payment Services Directive 2_) e *GDPR* (_General Data Protection Regulation_);
+- Ottimizzazione dell'efficienza operativa tramite _dashboard_ di monitoraggio in tempo reale.
 
-- Ottimizzazione dell'efficienza operativa tramite dashboard di monitoraggio in tempo reale.
+=== Tecnologie secondarie
 
-===  Tecnologie secondarie
+Oltre allo _stack_ ELK, Kirey Group utilizza diverse tecnologie complementari, scelte in base alle esigenze del progetto:
 
-Oltre all'ELK _stack_, Kirey Group utilizza una vasta gamma di tecnologie secondarie che vengono utilizzate al bisogno, tra cui:
+- *Java* e framework come *Spring Boot* per lo sviluppo _back-end_ di applicazioni. Spring Boot facilita la creazione di applicazioni Java _stand-alone_ con configurazione minima e supporta funzionalità come gestione delle dipendenze e microservizi.
 
-- *Java* e framework come *Spring Boot* per lo sviluppo _back-end_ di applicazioni;
-- *React* per lo sviluppo di interfacce utente;
-- *Docker* e *Kubernetes* per la creazione di _container_ e la gestione delle applicazioni, andando a migliorarne il _deployment_ e la scalabilità delle stesse.
+- *React* è una libreria *JavaScript* per la creazione di interfacce utente dinamiche e componenti riutilizzabili. Nei progetti aziendali, ho osservato come l'integrazione di React con Kibana possa migliorare ulteriormente l'interattività delle dashboard.
+
+- *Docker* è una piattaforma per la creazione e gestione di _container_, che garantisce un ambiente di esecuzione coerente per le applicazioni. Ogni _container_ include tutto il necessario per l'esecuzione del software (codice, _runtime_, librerie, ecc.).
+
+- *Kubernetes* (K8s) è un sistema per l'orchestrazione dei _container_, che automatizza il _deployment_, la gestione e la scalabilità delle applicazioni Docker.
 
 === Panoramica delle piattaforme di lavoro
 
-Kirey Group adotta inoltre alcune piattaforme collaborative e strumenti di produttività per facilitare il lavoro in team:
+Kirey Group adotta strumenti collaborativi per facilitare il lavoro in team e garantire un'efficace gestione dei progetti:
 
-- *Microsoft Teams* per la comunicazione interna e le videoconferenze;
-- *Confluence* per la documentazione centralizzata dei progetti;
-- *Jira* per la gestione delle attività e la pianificazione degli sprint;
-- *Bitbucket* per il version control e l'integrazione continua (CI/CD).
+- *Microsoft Teams* per la comunicazione interna, le chat e le videoconferenze, supportando la collaborazione sia in ufficio che da remoto.
 
-Queste piattaforme assicurano una gestione efficace delle informazioni, una comunicazione fluida e un'alta produttività, sia per i _team_ in ufficio che per quelli in modalità remota.
+- *Jira* è uno strumento per la gestione delle attività e degli sprint nei progetti _Agile_. Permette di tracciare i progressi e organizzare il lavoro in modo efficiente. Durante gli sprint, ho utilizzato Jira per coordinare le attività con i membri del team e monitorare l'avanzamento del progetto.
+
+- *Confluence* è una piattaforma di documentazione centralizzata utilizzata per condividere conoscenze e informazioni sui progetti, garantendo un archivio facilmente consultabile. Ho notato come l'integrazione tra Jira e Confluence permetta di mantenere la documentazione sempre aggiornata e di reperire informazioni su tutti i progetti a cui un dipendente è assegnato in maniera rapida.
+
+- *Bitbucket* è un servizio di version control basato su Git, utilizzato per il controllo delle versioni del codice e per l'integrazione continua (CI/CD). Facilita il _merge_ e il _deployment_ del codice attraverso pipeline automatizzate. Ho trovato particolarmente utile l'integrazione di Bitbucket con Jira per collegare direttamente le modifiche del codice alle specifiche attività del progetto.
+
+Queste piattaforme assicurano una gestione ottimale delle informazioni, una comunicazione fluida e un'alta produttività operativa, permettendo di lavorare efficacemente sia in team locali che distribuiti.
 
 //###############################################################################################################################
 
