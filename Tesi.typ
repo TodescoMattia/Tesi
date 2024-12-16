@@ -131,7 +131,7 @@ Oltre allo _stack_ ELK, Kirey Group utilizza diverse tecnologie complementari, s
 
 - *Java* e framework come *Spring Boot* per lo sviluppo _back-end_ di applicazioni. Spring Boot facilita la creazione di applicazioni Java _stand-alone_ con configurazione minima e supporta funzionalità come gestione delle dipendenze e microservizi.
 
-- *React* è una libreria *JavaScript* per la creazione di interfacce utente dinamiche e componenti riutilizzabili. Nei progetti aziendali, ho osservato come l'integrazione di React con Kibana possa migliorare ulteriormente l'interattività delle dashboard.
+- *React* è una libreria JavaScript per la creazione di interfacce utente dinamiche e componenti riutilizzabili. Nei progetti aziendali, ho osservato come l'integrazione di React con Kibana possa migliorare ulteriormente l'interattività delle dashboard.
 
 - *Docker* è una piattaforma per la creazione e gestione di _container_, che garantisce un ambiente di esecuzione coerente per le applicazioni. Ogni _container_ include tutto il necessario per l'esecuzione del software (codice, _runtime_, librerie, ecc.).
 
