@@ -12,7 +12,7 @@ Kirey Group è una società italiana di consulenza IT e informatica, fondata nel
 
 Kirey Group supporta le imprese offrendo competenze che spaziano dalla gestione delle infrastrutture IT alla sicurezza informatica, fino all'analisi dei dati.
 
-La missione dell'azienda è di aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
+La missione dell'azienda è quella di aiutare i clienti a ottimizzare i loro processi aziendali e aumentare la competitività, proponendo soluzioni digitali innovative.
 //###############################################################################################################################
 
 == Clientela
@@ -21,7 +21,7 @@ Kirey Group collabora principalmente con clienti, sia privati che pubblici, prov
 
 Le istituzioni finanziarie rappresentano una parte significativa della clientela dell'azienda, grazie alla loro necessità costante di innovare, migliorare l'efficienza operativa e rispettare stringenti normative di conformità.
 
-Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF*, leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, il gruppo si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
+Un esempio concreto a cui ho potuto assistere, sebbene non in maniera attiva, durante il mio tirocinio è stato quello dell'azienda *CRIF* (Centrale Rischi Finanziari), leader nel settore di informazione creditizia. In particolare, nel reparto a cui sono stato assegnato, il gruppo si occupa della gestione dei database, assicurando l'efficienza, l'affidabilità e le performance delle infrastrutture per supportare i servizi di informazione creditizia.
 
 //###############################################################################################################################
 
@@ -38,27 +38,57 @@ Questo approccio richiede una gestione meticolosa delle attività, un costante a
 Uno degli aspetti più rilevanti che caratterizzano i processi aziendali di Kirey Group è l'attenzione costante alle esigenze dei clienti.
 L'azienda garantisce un supporto 24 ore su 24, 7 giorni su 7 per assicurare la continuità operativa dei sistemi critici. 
 
-Personalmente sono stato inserito nella _Business line_ denominata "_Application performance monitoring_" (APM), e più precisamente nel gruppo "_Database assesment_" (DBA) che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
+Personalmente sono stato inserito nella _Business line_ denominata "_Application performance monitoring_" (APM), ovvero nel ramo dell'azienda che si occupa del monitoraggio in tempo reale delle performance e della funzionalità delle applicazioni dei clienti, e più precisamente nel gruppo "_Database assesment_" (DBA) che si occupa di di monitorare e gestire i servizi di _database management_ che l'azienda offre.
 
 Questo supporto viene gestito attraverso:
 
-- *_Team_ di supporto*: Divisione del personale in diversi team, ciascuno specializzato in una parte del monitoraggio dei sistemi o della gestione tempestiva delle segnalazioni dei clienti.
+- *_Team_ di supporto*: Divisione del personale in diversi gruppi, ciascuno specializzato in una porzione del monitoraggio dei sistemi o della gestione delle segnalazioni dei clienti.
 
-- *Sistemi di _ticketing_*: Il supporto viene gestito tramite piattaforme di _ticketing_ come Jira Service Management, che consentono di tracciare ogni richiesta di assistenza. Ogni _ticket_ viene classificato per priorità e assegnato a tecnici specializzati, garantendo tempi di risposta rapidi e conformi agli SLA (_Service Level Agreement_) concordati con i clienti.
+- *Sistemi di _ticketing_*: Il supporto viene gestito tramite piattaforme di _ticketing_, che consentono di tracciare ogni richiesta di assistenza. Ogni _ticket_ viene classificato per priorità e assegnato al gruppo preposto per quel compito, garantendo tempi di risposta rapidi e conformi agli SLA (_Service Level Agreement_) concordati con i clienti.
 
-- *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare dashboard personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
+- *Monitoraggio continuo*: L'uso di strumenti come Elasticsearch, Logstash e Kibana permette un monitoraggio continuo dei sistemi. Durante il tirocinio, ho avuto l'opportunità di osservare _dashboard_ personalizzate che aiutano a identificare anomalie in tempo reale e a intervenire proattivamente per prevenire disservizi.
+
+=== Documentazione
+
+Un altro elemento fondamentale che ho potuto osservare è l'attenzione alla documentazione continua e al condividere la conoscenza all'interno dei _team_. 
+
+Ogni volta che viene risolto un problema complesso o implementata una nuova procedura, viene creato un documento dettagliato che spiega i passaggi seguiti. Questa documentazione è salvata su piattaforme collaborative come Confluence. Durante il tirocinio, mi sono trovato spesso a consultare queste risorse, e ho avuto anche l'opportunità di contribuire con le mie esperienze e osservazioni. Questo approccio garantisce che tutti i gruppi possano accedere rapidamente a soluzioni già testate, migliorando la continuità operativa e la capacità di risolvere problemi simili in futuro.
+
+=== Automazione dei processi di supporto
+
+Un altro aspetto che ho potuto osservare durante il mio tirocinio è stata l'implementazione dell'automazione dei processi per migliorare l'efficienza e la rapidità di risposta. 
+
+Nel gruppo Database Assessment (DBA), molte attività ripetitive come la verifica della salute dei database e il controllo dei log vengono automatizzate tramite script personalizzati e strumenti di automazione come Bash scripting. Questa automazione permette di ridurre i tempi di intervento e minimizzare gli errori umani. Ho avuto l'opportunità di vedere come questi strumenti siano configurati per inviare notifiche automatiche  via e-mail al team quando vengono rilevati problemi critici, facilitando interventi immediati e tempestivi.
 
 === Metodologie di lavoro agile
 
-Nonostante il focus consulenziale, Kirey Group adotta metodologie Agile per la gestione delle attività e dei progetti.
+Nonostante il focus consulenziale, Kirey Group adotta metodologie Agile per la gestione delle attività e dei progetti. 
+Viene implementata quindi una collaborazione continua tra team di lavoro e cliente, basata principalmente sulla consegna frequente di piccoli incrementi funzionanti del prodotto.
 
 L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo efficiente e flessibile, anche per attività di supporto e manutenzione evolutiva.
 
-- *_Daily Meeting_*: Ogni giorno, i membri di un team partecipano a brevi riunioni chiamate _daily stand-up meeting_. Durante questi incontri, ciascun membro condivide lo stato delle attività, gli eventuali ostacoli e le priorità della giornata. Questo processo facilita una comunicazione trasparente e permette di risolvere rapidamente eventuali problemi.
+#showImageWithSource(
+  imagePath: "/assets/Scrum.png",
+  imageWidth: auto,
+  caption: [Panoramica _framework_ Scrum],
+  source: "https://www.scrum.org",
+  label: <Scrum>
+)
+ All'interno dell'azienda, le "abitudini" Agile derivate dal _framewrok_ Scrum che sono state adottate sono:
+
+- *_Daily Meeting_*: Ogni mattina i membri di un determinato gruppo di lavoro partecipano a brevi riunioni chiamate _daily stand-up meeting_. Durante questi incontri, ciascun membro condivide lo stato delle attività, gli eventuali ostacoli e le priorità della giornata. Questo processo facilita una comunicazione trasparente e permette di risolvere rapidamente eventuali problemi.
 
 - *Sprint di Manutenzione*: Le attività di manutenzione e supporto sono organizzate in sprint della durata di una settimana. Ogni sprint include interventi pianificati di aggiornamento dei sistemi, miglioramenti delle infrastrutture e risoluzione di problemi ricorrenti.
 
-- *Retrospettive*: Al termine di ogni sprint, si svolge una retrospettiva per analizzare l'andamento delle attività e individuare possibili miglioramenti nei processi di supporto. Questo approccio iterativo contribuisce a ottimizzare continuamente l'efficienza dei servizi offerti ai clienti.
+- *Retrospettive*: il venerdi pomeriggio al termine di ogni Sprint si svolge una retrospettiva per analizzare l'andamento delle attività e individuare possibili miglioramenti nei processi di supporto.
+
+=== Gestione delle _escalation_
+
+infine, un ultimo processo chiave che ho potuto osservare è la gestione delle _escalation_, ovvero delle "emergenze". 
+
+In situazioni in cui i problemi sono particolarmente critici o complessi, c'è una procedura ben definita per coinvolgere rapidamente i responsabili tecnici _senior_ o altri esperti del settore. Ho assistito a diversi casi in cui un problema veniva individuato tramite il sistema di monitoraggio, e grazie a un processo di _escalation_ efficace, il _team_ riusciva a risolverlo rapidamente senza impattare l'operatività del cliente. 
+
+Questa gestione strutturata delle _escalation_ assicura che ogni problema riceva l'attenzione necessaria, mantenendo alto il livello di servizio offerto ai clienti.
 
 //###############################################################################################################################
 
@@ -121,15 +151,17 @@ Queste piattaforme assicurano una gestione ottimale delle informazioni, una comu
 == Approccio all'innovazione
 
 Uno degli aspetti fondamentali della strategia aziendale di Kirey Group è l'innovazione.
+
 Essa viene perseguita in modo sistematico e non si riversa solo nello sviluppo tecnologico, ma anche nel costante miglioramento dei processi interni e della cultura organizzativa.
 
 Nel corso del tirocinio, ho potuto notare come Kirey Group consideri l'innovazione un processo continuo, che entra in ogni aspetto delle attività aziendali.
+
 Questo approccio si concretizza attraverso l'investimento continuo per l'adozione di nuove tecnologie, il miglioramento costante dei processi interni e la promozione di una cultura organizzativa aperta al cambiamento. 
 In particolare, ho potuto osservare l'importanza attribuita a:
 
-- *Innovazione tecnologica*: l'azienda cerca costantemente di rimanere al passo con le più moderne tecnologie, in particolare riguardanti big data analytics e machine learning. Nell'ambito del progetto di sviluppo dell'applicazione alla quale io sono stato assegnato, sono stato in grado di lavorare con strumenti avanzati e tecnologicamente "nuovi" di Elasticsearch e Kibana e analizzare e rappresentare grandi quantità di dati;
+- *Innovazione tecnologica*: l'azienda cerca costantemente di rimanere al passo con le più moderne tecnologie, in particolare riguardanti _big data analytics_ e _machine learning_. Nell'ambito del progetto di sviluppo dell'applicazione alla quale io sono stato assegnato, sono stato in grado di lavorare con strumenti avanzati e tecnologicamente "nuovi" di Elasticsearch e Kibana e analizzare e rappresentare grandi quantità di dati;
 
-- *Innovazione nei processi* : ho potuto partecipare, seppure da esterno, a riunioni di sprint e sessioni di pianificazione, utilizzando la metodologia Agile, e lo sviluppo basato su attività come Scrum e CI/CD. Esse aiutano a rendere il processo più efficiente e flessibile;
+- *Innovazione nei processi* : ho potuto partecipare, seppure da esterno, a riunioni di sprint e sessioni di pianificazione, utilizzando la metodologia Agile, e lo sviluppo basato su attività come Scrum e CI/CD (Continuous Integration / Continuous Delivery). Esse aiutano a rendere il processo più efficiente e flessibile;
 
 - *Formazione costante*: a seguito di colloqui avuti con alcuni colleghi è emerso che l'azienda, specialmente nei primi anni dall'assunzione, offre una vasta gamma di opportunità formative e di studio da svolgere durante l'orario di lavoro.
 
