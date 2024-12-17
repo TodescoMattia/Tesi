@@ -137,6 +137,15 @@ Oltre allo _stack_ ELK, Kirey Group utilizza diverse tecnologie complementari, s
 
 - *Kubernetes* (K8s) è un sistema per l'orchestrazione dei _container_, che automatizza il _deployment_, la gestione e la scalabilità delle applicazioni Docker.
 
+Di seguito una rappresentazione fornitami dall'azienda di una tipica interazione tra le tecnologie sopra elencate:
+
+#showImageWithSource(
+  imagePath: "/assets/Tecnologie_secondarie.png",
+  imageWidth: auto,
+  caption: [Diagramma architetturale delle tecnologie di supporto],
+  source: "Risorsa fornita dal tutor aziendale",
+  label: <TS>
+)
 === Strumenti di lavoro
 
 Kirey Group adotta strumenti collaborativi per facilitare il lavoro in team e garantire un'efficace gestione dei progetti:
