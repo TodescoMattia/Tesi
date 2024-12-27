@@ -187,10 +187,12 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 
 == Il ruolo dello stage secondo Kirey group
 
-Lo stage ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un tassello fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
+Lo stage ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
 Come parte integrante della strategia dell'azienda, lo stage è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
 
-Durante il mio periodo di stage, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un ruolo secondario, ma è stata valorizzata come risorsa attiva nel processo aziendale. L'ambiente lavorativo si è rivelato inclusivo e supportivo, favorendo la condivisione delle conoscenze e un costante scambio di idee. La fase iniziale del mio percorso è stata dedicata alla formazione, durante la quale ho avuto modo di conoscere altri colleghi, provenienti sia dall'Università di Padova, come me, sia da contesti accademici e professionali differenti, a testimonianza dell'impegno dell'azienda nel creare un ecosistema variegato e aperto alla diversità.
+Durante il mio periodo di stage, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un mero ruolo secondario, ma è stata valorizzata come risorsa utile nel processo aziendale. 
+
+L'ambiente lavorativo si è rivelato inclusivo e supportivo, favorendo la condivisione delle conoscenze e un costante scambio di idee. La fase iniziale del mio percorso è stata dedicata alla formazione, durante la quale ho avuto modo di conoscere altri colleghi, provenienti sia dall'Università di Padova, come me, sia da contesti accademici e professionali differenti.
 
 Questo periodo di formazione ha rappresentato un'occasione unica per applicare le competenze acquisite nel mio percorso di studi a situazioni reali e sfide concrete. Allo stesso tempo, per Kirey Group, lo stage si configura come uno strumento strategico per individuare nuovi talenti e valutare la possibilità di integrare le risorse più promettenti nel proprio organico, contribuendo a mantenere un vantaggio competitivo e a stimolare un continuo processo di innovazione.
 
@@ -307,13 +309,13 @@ Gli obiettivi che mi sono posto durante il tirocinio presso Kirey Group sono foc
 
 In particolare, questi sono gli aspetti che ho tenuto in maggiore considerazione prima di intraprendere il tirocinio:
 
-- *Lavorare in gruppo:* Migliorare le mie capacità di collaborazione e comunicazione all'interno di un team di sviluppo. Ho avuto l'opportunità di lavorare con persone provenienti da contesti diversi, con competenze specifiche, e quindi di confrontarmi con nuovi punti di vista e metodi di lavoro. Questo mi ha permesso di sviluppare un approccio più versatile nella gestione dei rapporti professionali.
+- *Lavorare in gruppo:* Migliorare le mie capacità di collaborazione e comunicazione all'interno di un team di sviluppo. Ho avuto l'opportunità di lavorare con persone provenienti da contesti diversi, con competenze specifiche, e quindi di confrontarmi con nuovi punti di vista e metodi di lavoro. Questo mi ha permesso di sviluppare un approccio più versatile nella gestione dei rapporti professionali;
 
-- *_Problem Solving_:* Sviluppare il mio approccio nel risolvere problemi complessi, applicando soluzioni tecniche efficaci e rispettando i vincoli aziendali.
+- *_Problem solving_:* Sviluppare il mio approccio nel risolvere problemi complessi, applicando soluzioni tecniche efficaci e rispettando i vincoli aziendali;
 
-- *Conoscenze Tecnologiche:* Ampliare le mie conoscenze sulle tecnologie più utilizzate nel settore, in particolare quelle adottate da Kirey Group, come IP Fabric, Elasticsearch e strumenti di monitoraggio della rete. Questa esperienza mi ha dato la possibilità di applicare i concetti acquisiti durante il corso di studi in un contesto lavorativo, approfondendo tematiche come l'integrazione di sistemi, il monitoraggio delle performance di rete e la gestione di grandi volumi di dati;
+- *Conoscenze tecnologiche:* Ampliare le mie conoscenze sulle tecnologie più utilizzate nel settore, in particolare quelle adottate da Kirey Group, come IP Fabric, Elasticsearch e strumenti di monitoraggio della rete. Questa esperienza mi ha dato la possibilità di applicare i concetti acquisiti durante il corso di studi in un contesto lavorativo, approfondendo tematiche come l'integrazione di sistemi, il monitoraggio delle performance di rete e la gestione di grandi volumi di dati;
 
-- *Conoscenze Metodologiche:* Approfondire le metodologie di sviluppo software e i processi aziendali adottati in un contesto professionale, in modo da consolidare la mia preparazione teorica. Lavorare con metodologie Agile e seguire i processi di qualità e controllo del codice mi ha dato una panoramica pratica di come vengono gestiti i progetti all'interno di un'azienda di consulenza come Kirey Group;
+- *Conoscenze dello sviluppo software:* Approfondire le metodologie di sviluppo software e i processi aziendali adottati in un contesto professionale, in modo da consolidare la mia preparazione teorica. Lavorare con metodologie Agile e seguire i processi di qualità e controllo del codice mi ha dato una panoramica pratica di come vengono gestiti i progetti all'interno di un'azienda di consulenza come Kirey Group;
 
 - *Finestra sul mondo del lavoro:* Acquisire una visione più chiara del mondo del lavoro e di ciò che accade in un'azienda. 
 
@@ -326,9 +328,9 @@ Kirey Group è sicuramente quella che ha suscitato maggiormente il mio interesse
 
 Le ragioni per cui ho deciso di intraprendere il mio tirocinio presso Kirey Group sono:
 
-- *Impegno verso lo stage e i tirocinanti:* Fin dal primo contatto con l'azienda, mi è apparso evidente l'approccio serio e professionale di Kirey Group nei confronti dello stage e dello stagista. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere "lavoro gratuito", Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo stage solo come una forma di supporto temporaneo, ma come un'opportunità di crescita. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per me.
+- *Impegno verso lo stage e i tirocinanti:* Fin dal primo contatto con l'azienda, mi è apparso evidente l'approccio serio e professionale di Kirey Group nei confronti dello stage e dello stagista. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere "lavoro gratuito", Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo stage solo come una forma di supporto temporaneo, ma come un'opportunità di crescita. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per me;
 
-- *Attenzione alla formazione continua:* Un altro motivo che mi ha spinto a scegliere Kirey Group è stato l'approccio proattivo dell'azienda nel garantire la formazione continua dei propri tirocinanti. Durante il colloquio, mi è stato chiarito come Kirey Group si impegni a fornire una solida preparazione tecnica, integrando la formazione pratica con momenti di apprendimento teorico, fattore che è poi risultato determinante per la scelta finale.
+- *Attenzione alla formazione continua:* Un altro motivo che mi ha spinto a scegliere Kirey Group è stato l'approccio proattivo dell'azienda nel garantire la formazione continua dei propri tirocinanti. Durante il colloquio, mi è stato chiarito come Kirey Group si impegni a fornire una solida preparazione tecnica, integrando la formazione pratica con momenti di apprendimento teorico, fattore che è poi risultato determinante per la scelta finale;
 
 - *Opportunità di assunzione futura:* Un altro aspetto che ha contribuito alla mia scelta è la possibilità, messa in chiaro fin da subito dall'azienda, di essere assunti al termine del tirocinio. Questo aspetto, che dimostra l'attenzione dell'azienda nel riconoscere e premiare il talento, ha rappresentato un forte incentivo per intraprendere questa esperienza. La possibilità di trasformare un tirocinio in un'opportunità di carriera mi ha motivato a scegliere Kirey Group.
 
