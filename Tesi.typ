@@ -183,19 +183,124 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 
 #pagebreak()
 
-= Obiettivi dello stage
+= Lo stage
 
-    == Obiettivi dello Stage secondo Kirey group
-    Analisi degli obiettivi, dei problemi o delle aree di miglioramento individuate dall'azienda, con una spiegazione su come questi motivi si inseriscano nella strategia a lungo termine dell'organizzazione.
+== Il ruolo dello Stage secondo Kirey group
 
-    == Progetto proposto
-    Analisi del progetto proposto e di ciò che l'azienda si aspettava.
+Lo stage ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un tassello fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
+Come parte integrante della strategia dell'azienda, lo stage è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
 
-    == La Strategia di Innovazione dell'Azienda e gli Stage
-    Considerazioni sull'approccio generale dell'azienda rispetto agli stage e alla collaborazione con giovani professionisti, evidenziando la visione dell'azienda in merito a innovazione e sviluppo di giovane personale.
+Durante il mio periodo di stage, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un ruolo secondario, ma è stata valorizzata come risorsa attiva nel processo aziendale. L'ambiente lavorativo si è rivelato inclusivo e supportivo, favorendo la condivisione delle conoscenze e un costante scambio di idee. La fase iniziale del mio percorso è stata dedicata alla formazione, durante la quale ho avuto modo di conoscere altri colleghi, provenienti sia dall'Università di Padova, come me, sia da contesti accademici e professionali differenti, a testimonianza dell'impegno dell'azienda nel creare un ecosistema variegato e aperto alla diversità.
 
-    == Obiettivi Personali e Motivazioni della Scelta
-    Spiegazione delle motivazioni personali che hanno portato alla scelta dello stage e delle competenze o esperienze che lo stage avrebbe permesso di sviluppare rispetto ad altre opportunità.
+Questo periodo di formazione ha rappresentato un'occasione unica per applicare le competenze acquisite nel mio percorso di studi a situazioni reali e sfide concrete. Allo stesso tempo, per Kirey Group, lo stage si configura come uno strumento strategico per individuare nuovi talenti e valutare la possibilità di integrare le risorse più promettenti nel proprio organico, contribuendo a mantenere un vantaggio competitivo e a stimolare un continuo processo di innovazione.
+
+== Progetto proposto
+
+=== Descrizione del progetto
+
+L'obiettivo principale di questo progetto è sviluppare un'applicazione web che automatizzi il censimento e la gestione dei dispositivi di rete, offrendo agli utenti un'interfaccia grafica per monitorare e configurare il sistema in tempo reale.
+
+L'applicazione estrae i dati sui dispositivi di rete da IPFabric, li memorizza in un indice Elasticsearch e consente agli utenti di abilitare o disabilitare il monitoraggio delle prestazioni di rete.
+
+Il sistema è progettato per garantire una sincronizzazione costante dei dati, permettendo agli utenti di mantenere l'elenco dei dispositivi e le configurazioni sempre aggiornati. Attraverso l'applicazione web, gli utenti possono anche aggiornare i dati e modificare le impostazioni di monitoraggio per riflettere in tempo reale lo stato della rete.
+
+==== Funzionalità Principali
+
+- *Visualizzazione e Aggiornamento dell'Indice:* L'applicazione consente agli utenti di visualizzare le informazioni sui dispositivi salvate nell'indice Elasticsearch, offrendo un'interfaccia grafica per esplorare i dati. Inoltre, è possibile aggiornare i documenti nell'indice per garantire che le informazioni siano sempre allineate con lo stato attuale della rete.
+
+- *Modifica dei Campi:* Gli utenti hanno la possibilità di modificare specifici campi dei dispositivi all'interno dell'indice, come i flag per il monitoraggio SNMP, Netflow (dei protocolli di rete) e altre impostazioni, consentendo una gestione dettagliata e personalizzata dei dispositivi di rete.
+
+- *Aggiornamento del File YAML:* L'applicazione permette di aggiornare automaticamente un file YAML che contiene la lista dei dispositivi con monitoraggio attivo, facilitando la gestione e la configurazione dei dispositivi da monitorare direttamente dall'interfaccia web.
+
+#showImageWithSource(
+  imagePath: "/assets/NPMDevices.png",
+  imageWidth: auto,
+  caption: [Architettura di base dell'applicazione],
+  source: "Prodotta durante lo stage",
+  label: <Architettura>
+)
+
+=== Obiettivi
+
+Gli obiettivi sono classificati secondo le seguenti notazioni:
+- *Ob*: per i requisiti obbligatori, vincolanti in quanto obiettivo primario richiesto dal committente;
+- *D*: per i requisiti desiderabili, non vincolanti o strettamente necessari, ma dal riconoscibile valore aggiunto;
+- *Op*: per i requisiti opzionali, rappresentanti valore aggiunto non strettamente competitivo.
+
+Le sigle precedentemente indicate saranno seguite da un numero identificativo del requisito.
+
+#linebreak()
+#set table.cell(inset: (y:0.25cm), breakable: true)
+#show figure: set block(breakable: true)
+
+#figure(
+  table(
+    columns: (0.5fr, 2fr),
+    align: (center+horizon, left+horizon),
+    [*Categoria*], [*Descrizione*],
+    [*Ob 1.1*], [Individuazione delle componenti da installare.],
+    [*Ob 1.2*], [Installazione e configurazione delle componenti.],
+  ),
+  kind: table,
+  numbering: (_) => [#counter(heading).get().at(0)] + "." + [#counter(figure.where(kind: table)).display()],
+  caption: [Preparazione dell'ambiente per l'applicazione web.],
+)
+
+#linebreak()
+
+#figure(
+  table(
+    columns: (0.5fr, 2fr),
+    align: (center+horizon, left+horizon),
+    [*Categoria*], [*Descrizione*],
+    [*Ob 2.1*], [Estrazione lista dei dispositivi da monitorare da IPFabric.],
+    [*Ob 2.2*], [Scrittura in Elasticsearch della lista dei dispositivi da monitorare.],
+    [*Ob 2.3*], [Aggiornamento automatico del file con il censimento dispositivi.],
+    [*D 2.4*], [Aggiornamento automatico configurazioni Logstash per il monitoraggio SNMP.],
+    [*D 2.5*], [Aggiornamento automatico configurazioni Logstash per il monitoraggio Netflow.],
+  ),
+  kind: table,
+  numbering: (_) => [#counter(heading).get().at(0)] + "." + [#counter(figure.where(kind: table)).display()],
+  caption: [Implementazione dell'applicazione: back-end.],
+)
+#linebreak()
+
+#figure(
+  table(
+    columns: (0.5fr, 2fr),
+    align: (center+horizon, left+horizon),
+    [*Categoria*], [*Descrizione*],
+    [*Ob 3.1*], [Realizzazione di una tabella per la visualizzazione dei dispositivi.],
+    [*Ob 3.2*], [Implementare la modifica e il salvataggio nella tabella.],
+    [*Ob 3.3*], [Implementare la sezione filtri per le ricerche nella tabella.],
+    [*Op 3.4*], [Implementare la possibilità di aggiornare la lista dei dispositivi con un bottone.],
+    [*Op 3.5*], [Implementare l'autenticazione e la profilazione per il login nell'applicazione.],
+  ),
+  kind: table,
+  numbering: (_) => [#counter(heading).get().at(0)] + "." + [#counter(figure.where(kind: table)).display()],
+  caption: [Implementazione dell'applicazione: front-end.],
+)
+
+#linebreak()
+
+#figure(
+  table(
+    columns: (0.5fr, 2fr),
+    align: (center+horizon, left+horizon),
+    [*Categoria*], [*Descrizione*],
+    [*Ob 4.1*], [Descrizione delle tecnologie e prodotti utilizzati.],
+    [*Ob 4.2*], [Descrizione dei flussi logici del progetto e delle funzionalità.],
+    [*D 4.3*], [Pro/contro di ogni componente e criticità nell'applicazione.],
+  ),
+  kind: table,
+  numbering: (_) => [#counter(heading).get().at(0)] + "." + [#counter(figure.where(kind: table)).display()],
+  caption: [Documentazione dettagliata.],
+)
+
+== La Strategia di Innovazione dell'Azienda e gli Stage
+
+== Obiettivi Personali e Motivazioni della Scelta
+
 
 #pagebreak()
 
