@@ -315,23 +315,26 @@ In particolare, questi sono gli aspetti che ho tenuto in maggiore considerazione
 
 - *Conoscenze Metodologiche:* Approfondire le metodologie di sviluppo software e i processi aziendali adottati in un contesto professionale, in modo da consolidare la mia preparazione teorica. Lavorare con metodologie Agile e seguire i processi di qualità e controllo del codice mi ha dato una panoramica pratica di come vengono gestiti i progetti all'interno di un'azienda di consulenza come Kirey Group;
 
-- *Finestra sul mondo del lavoro:* Acquisire una visione più chiara del mondo del lavoro e di ciò che accade in un'azienda.
+- *Finestra sul mondo del lavoro:* Acquisire una visione più chiara del mondo del lavoro e di ciò che accade in un'azienda. 
 
 Questa esperienza rappresenta per me la prima vera opportunità di crescita professionale e mi ha permesso di applicare in modo concreto le conoscenze teoriche acquisite nel corso di studi, di migliorare le mie competenze trasversali e di prepararmi ad affrontare il futuro in modo più consapevole e competente.
 
 === Motivazione della scelta
 
-Durante il mio percorso di ricerca per un'opportunità di tirocinio, in particolar modo a *_StageIT 2024_*, ho avuto l'opportunità di conoscere diverse aziende, ma è stata Kirey Group quella che ha suscitato maggiormente il mio interesse. La mia scelta si è basata su una valutazione attenta di diversi fattori, che rispondevano sia alle mie esigenze professionali che ai miei obiettivi di crescita personale.
+Durante il mio percorso di ricerca per un tirocinio, in particolar modo all'evento *_StageIT 2024_*, ho avuto l'opportunità di conoscere diverse aziende del settore.
+Kirey Group è sicuramente quella che ha suscitato maggiormente il mio interesse, basandomi su una valutazione attenta di diversi fattori, che rispondevano sia alle mie esigenze professionali che ai miei obiettivi di crescita personale.
 
-Le ragioni per cui ho deciso di intraprendere il mio tirocinio presso Kirey Group sono molteplici e si articolano nei seguenti punti:
+Le ragioni per cui ho deciso di intraprendere il mio tirocinio presso Kirey Group sono:
 
-- *Impegno verso lo stage e i tirocinanti:* Fin dal primo contatto con l'azienda, è stato evidente l'approccio serio e professionale di Kirey Group nei confronti dello stage. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere _lavoro gratuito_, Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo stage solo come una forma di supporto temporaneo, ma come un'opportunità di crescita reciproca. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per sviluppare le mie competenze in modo concreto.
+- *Impegno verso lo stage e i tirocinanti:* Fin dal primo contatto con l'azienda, mi è apparso evidente l'approccio serio e professionale di Kirey Group nei confronti dello stage e dello stagista. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere "lavoro gratuito", Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo stage solo come una forma di supporto temporaneo, ma come un'opportunità di crescita. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per me.
 
 - *Attenzione alla formazione continua:* Un altro motivo che mi ha spinto a scegliere Kirey Group è stato l'approccio proattivo dell'azienda nel garantire la formazione continua dei propri tirocinanti. Durante il colloquio, mi è stato chiarito come Kirey Group si impegni a fornire una solida preparazione tecnica, integrando la formazione pratica con momenti di apprendimento teorico, fattore che è poi risultato determinante per la scelta finale.
 
 - *Opportunità di assunzione futura:* Un altro aspetto che ha contribuito alla mia scelta è la possibilità, messa in chiaro fin da subito dall'azienda, di essere assunti al termine del tirocinio. Questo aspetto, che dimostra l'attenzione dell'azienda nel riconoscere e premiare il talento, ha rappresentato un forte incentivo per intraprendere questa esperienza. La possibilità di trasformare un tirocinio in un'opportunità di carriera mi ha motivato a scegliere Kirey Group.
 
 #pagebreak()
+
+//###############################################################################################################################
 
 = Svolgimento del progetto
 
