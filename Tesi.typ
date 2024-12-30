@@ -185,7 +185,7 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 
 = Lo stage
 
-== Il ruolo dello stage secondo Kirey group
+== Il ruolo dello stage secondo Kirey Group
 
 Lo stage ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
 Come parte integrante della strategia dell'azienda, lo stage è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.

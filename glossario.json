@@ -59,6 +59,11 @@
     "acronyms": [],
     "synonyms": ["java", "Java"]
   },
+  "Javascript": {
+    "description": "Linguaggio di programmazione dinamico, utilizzato per creare interfacce utente interattive e dinamiche su applicazioni web.",
+    "acronyms": [],
+    "synonyms": ["javascript", "Javascript", "JavaScript"]
+  },
   "Jira": {
     "description": "Strumento di gestione dei progetti sviluppato da Atlassian, utilizzato per il tracking dei bug, la gestione delle attività e lo sviluppo Agile. Jira offre funzionalità avanzate per pianificare, monitorare e rilasciare software con maggiore efficienza.",
     "acronyms": [],
@@ -79,6 +84,11 @@
     "acronyms": [],
     "synonyms": ["logstash", "Logstash"]
   },
+  "NetFlow": {
+    "description": "Protocollo di monitoraggio della rete sviluppato da Cisco, utilizzato per raccogliere informazioni sul traffico di rete e analizzarne i flussi.",
+    "acronyms": [],
+    "synonyms": ["netflow", "NetFlow", "Netflow"]
+  },
   "React": {
     "description": "Libreria JavaScript sviluppata da Facebook per creare interfacce utente dinamiche e componenti riutilizzabili per applicazioni web.",
     "acronyms": [],
@@ -93,6 +103,11 @@
     "description": "Accordo formale tra fornitore e cliente che definisce il livello di servizio atteso, inclusi tempi di risposta, disponibilità e qualità del servizio.",
     "acronyms": [],
     "synonyms": ["sla", "SLA"]
+  },
+  "SNMP": {
+    "description": "Simple Network Management Protocol, protocollo standard utilizzato per monitorare e gestire dispositivi in una rete, come router, switch e server.",
+    "acronyms": [],
+    "synonyms": ["snmp", "SNMP"]
   },
   "Spring Boot": {
     "description": "Framework Java open-source basato su Spring che facilita lo sviluppo di applicazioni stand-alone e pronte per la produzione con configurazione minimale.",
@@ -113,5 +128,10 @@
     "description": "Sistema che registra le modifiche ai file nel tempo, permettendo di ripristinare versioni precedenti e collaborare in modo efficiente.",
     "acronyms": [],
     "synonyms": ["version control", "Version Control"]
+  },
+  "YAML": {
+    "description": "Linguaggio di serializzazione dei dati leggibile da esseri umani, utilizzato per configurazioni e file di input per applicazioni moderne.",
+    "acronyms": [],
+    "synonyms": ["yaml", "YAML"]
   }
 }
