@@ -183,18 +183,18 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 
 #pagebreak()
 
-= Lo stage
+= Lo _stage_
 
-== Il ruolo dello stage secondo Kirey Group
+== Il ruolo dello _stage_ secondo Kirey Group
 
-Lo stage ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
-Come parte integrante della strategia dell'azienda, lo stage è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
+Lo _stage_ ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
+Come parte integrante della strategia dell'azienda, lo _stage_ è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
 
-Durante il mio periodo di stage, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un mero ruolo secondario, ma è stata valorizzata come risorsa utile nel processo aziendale. 
+Durante il mio periodo di _stage_, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un mero ruolo secondario, ma è stata valorizzata come risorsa utile nel processo aziendale. 
 
 L'ambiente lavorativo si è rivelato inclusivo e supportivo, favorendo la condivisione delle conoscenze e un costante scambio di idee. La fase iniziale del mio percorso è stata dedicata alla formazione, durante la quale ho avuto modo di conoscere altri colleghi, provenienti sia dall'Università di Padova, come me, sia da contesti accademici e professionali differenti.
 
-Questo periodo di formazione ha rappresentato un'occasione unica per applicare le competenze acquisite nel mio percorso di studi a situazioni reali e sfide concrete. Allo stesso tempo, per Kirey Group, lo stage si configura come uno strumento strategico per individuare nuovi talenti e valutare la possibilità di integrare le risorse più promettenti nel proprio organico, contribuendo a mantenere un vantaggio competitivo e a stimolare un continuo processo di innovazione.
+Questo periodo di formazione ha rappresentato un'occasione unica per applicare le competenze acquisite nel mio percorso di studi a situazioni reali e sfide concrete. Allo stesso tempo, per Kirey Group, lo _stage_ si configura come uno strumento strategico per individuare nuovi talenti e valutare la possibilità di integrare le risorse più promettenti nel proprio organico, contribuendo a mantenere un vantaggio competitivo e a stimolare un continuo processo di innovazione.
 
 == Progetto proposto
 
@@ -220,13 +220,12 @@ Le funzionalità principali dell'applicazione sviluppata sono:
   imagePath: "/assets/NPMDevices.png",
   imageWidth: auto,
   caption: [Architettura di base dell'applicazione],
-  source: "Prodotta da me durante lo stage",
   label: <Architettura>
 )
 
 === Obiettivi
 
-Gli obiettivi sono classificati secondo le seguenti notazioni:
+Gli obiettivi sono  stati classificati dal mio tutor aziendale, assegnatomi all'arrivo in azienda, secondo le seguenti notazioni:
 - *Ob*: per i requisiti obbligatori, vincolanti in quanto obiettivo primario richiesto dal committente;
 - *D*: per i requisiti desiderabili, non vincolanti o strettamente necessari, ma dal riconoscibile valore aggiunto;
 - *Op*: per i requisiti opzionali, rappresentanti valore aggiunto non strettamente competitivo.
@@ -323,12 +322,12 @@ Questa esperienza rappresenta per me la prima vera opportunità di crescita prof
 
 === Motivazione della scelta
 
-Durante il mio percorso di ricerca per un tirocinio, in particolar modo all'evento *_StageIT 2024_*, ho avuto l'opportunità di conoscere diverse aziende del settore.
+Durante il mio percorso di ricerca per un tirocinio, in particolar modo all'evento *_STAGE-IT 2024_*, ho avuto l'opportunità di conoscere diverse aziende del settore.
 Kirey Group è sicuramente quella che ha suscitato maggiormente il mio interesse, basandomi su una valutazione attenta di diversi fattori, che rispondevano sia alle mie esigenze professionali che ai miei obiettivi di crescita personale.
 
 Le ragioni per cui ho deciso di intraprendere il mio tirocinio presso Kirey Group sono:
 
-- *Impegno verso lo stage e i tirocinanti:* Fin dal primo contatto con l'azienda, mi è apparso evidente l'approccio serio e professionale di Kirey Group nei confronti dello stage e dello stagista. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere "lavoro gratuito", Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo stage solo come una forma di supporto temporaneo, ma come un'opportunità di crescita. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per me;
+- *Impegno verso lo _stage_ e i tirocinanti:* Fin dal primo contatto con l'azienda, mi è apparso evidente l'approccio serio e professionale di Kirey Group nei confronti dello _stage_ e dello stagista. A differenza di altre realtà che considerano il tirocinante come una figura marginale e quasi un modo per ottenere "lavoro gratuito", Kirey Group ha dimostrato un forte impegno nel garantire un'esperienza formativa completa e utile per il tirocinante. Durante la presentazione e i colloqui, è stato evidente come l'azienda non veda lo _stage_ solo come una forma di supporto temporaneo, ma come un'opportunità di crescita. Questo impegno a valorizzare il tirocinante mi ha convinto che fosse l'ambiente ideale per me;
 
 - *Attenzione alla formazione continua:* Un altro motivo che mi ha spinto a scegliere Kirey Group è stato l'approccio proattivo dell'azienda nel garantire la formazione continua dei propri tirocinanti. Durante il colloquio, mi è stato chiarito come Kirey Group si impegni a fornire una solida preparazione tecnica, integrando la formazione pratica con momenti di apprendimento teorico, fattore che è poi risultato determinante per la scelta finale;
 
@@ -350,17 +349,17 @@ Le ragioni per cui ho deciso di intraprendere il mio tirocinio presso Kirey Grou
     Esposizione dei principali problemi affrontati in fase di codifica e spiegazione delle scelte fatte per superarli.
 
     == Risultati Ottenuti
-    Descrizione dei risultati ottenuti dallo stage, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing).
+    Descrizione dei risultati ottenuti dallo _stage_, sia dal punto di vista qualitativo (visione dell'utente sul prodotto finale) sia quantitativo (metrica delle performance, copertura dei requisiti e testing).
 
 #pagebreak()
  
 = Valutazione dell'esperienza
 
     == Valutazione del Raggiungimento degli Obiettivi
-    Riflessione sul raggiungimento degli obiettivi iniziali dello stage, in base a dati concreti, e valutazione del grado di soddisfazione sia per l'azienda che per lo studente.
+    Riflessione sul raggiungimento degli obiettivi iniziali dello _stage_, in base a dati concreti, e valutazione del grado di soddisfazione sia per l'azienda che per lo studente.
 
     == Crescita Professionale
-    Analisi dei progressi personali in termini di conoscenze acquisite e competenze pratiche sviluppate durante lo stage.
+    Analisi dei progressi personali in termini di conoscenze acquisite e competenze pratiche sviluppate durante lo _stage_.
 
     == Competenze e Gap con il Corso di Studi
     Valutazione della preparazione accademica rispetto alle competenze richieste in azienda, con eventuale discussione sulle aree di miglioramento o lacune riscontrate nel percorso formativo.

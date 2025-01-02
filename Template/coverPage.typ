@@ -54,7 +54,7 @@ Il documento si articola in quattro capitoli:
 All'interno del documento sono state adottate le seguenti convenzioni tipografiche:
 
 - i termini in lingua straniera sono resi in corsivo;
-- ogni immagine è accompagnata da una didascalia e dalla fonte di provenienza;
+- ogni immagine è accompagnata da una didascalia e dalla fonte di provenienza, a meno che essa non sia stata prodotta da me durante il tirocinio;
 - i termini riportati nel glossario sono contrassegnati con una lettera "G" in pedice.
 
 In appendice sono inclusi un elenco di abbreviazioni e acronimi, un glossario e una bibliografia con sitografia dei riferimenti consultati.
