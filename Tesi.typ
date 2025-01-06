@@ -190,9 +190,12 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 Lo _stage_ ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
 Come parte integrante della strategia dell'azienda, lo _stage_ è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
 
-Durante il mio periodo di _stage_, sono stato inserito in un gruppo di lavoro collaborativo e stimolante, dove la mia figura non è stata relegata a un mero ruolo secondario, ma è stata valorizzata come risorsa utile nel processo aziendale. 
+Kirey Group, come comunicatomi durante i colloqui preliminari, prevede l'inserimento di un solo tirocinante per gruppo di lavoro. 
+Questa scelta è motivata dalla volontà di offrire un'esperienza formativa di qualità, consentendo una maggiore attenzione al singolo stagista e favorendo un'interazione più diretta con i membri esperti del team.
+L'approccio di limitare il numero di tirocinanti in ciascun gruppo permette di evitare la dispersione delle risorse e di concentrare l'attenzione sullo sviluppo delle competenze del singolo, facilitando un'esperienza più strutturata e personalizzata.
 
-L'ambiente lavorativo si è rivelato inclusivo e supportivo, favorendo la condivisione delle conoscenze e un costante scambio di idee. La fase iniziale del mio percorso è stata dedicata alla formazione, durante la quale ho avuto modo di conoscere altri colleghi, provenienti sia dall'Università di Padova, come me, sia da contesti accademici e professionali differenti.
+Nel mio caso, soprattutto a seguito dei primi colloqui con il personale aziendale, l'aspettativa creatasi era di essere inserito in un ambiente collaborativo, dove il confronto con colleghi esperti avrebbe favorito l'acquisizione di competenze specifiche e trasversali. 
+Tale interazione dovrebbe permettere di approfondire non solo gli aspetti tecnici legati al progetto, ma anche di comprendere le metodologie operative e i processi organizzativi tipici di un'azienda di consulenza.
 
 Questo periodo di formazione ha rappresentato un'occasione unica per applicare le competenze acquisite nel mio percorso di studi a situazioni reali e sfide concrete. Allo stesso tempo, per Kirey Group, lo _stage_ si configura come uno strumento strategico per individuare nuovi talenti e valutare la possibilità di integrare le risorse più promettenti nel proprio organico, contribuendo a mantenere un vantaggio competitivo e a stimolare un continuo processo di innovazione.
 
@@ -202,10 +205,15 @@ Questo periodo di formazione ha rappresentato un'occasione unica per applicare l
 
 L'obiettivo principale di questo progetto è sviluppare un'applicazione web che automatizzi il censimento e la gestione dei dispositivi di rete, offrendo agli utenti un'interfaccia grafica per monitorare e configurare il sistema in tempo reale.
 
-L'applicazione estrae i dati sui dispositivi di rete da IPFabric, li memorizza in un indice Elasticsearch e consente agli utenti di abilitare o disabilitare il monitoraggio delle prestazioni di rete.
+L'applicazione estrae automaticamente i dati relativi ai dispositivi di rete utilizzando la piattaforma IPFabric, memorizzandoli successivamente in un indice Elasticsearch. 
 
-Il sistema è progettato per garantire una sincronizzazione costante dei dati, permettendo agli utenti di mantenere l'elenco dei dispositivi e le configurazioni sempre aggiornati. Attraverso l'applicazione web, gli utenti possono anche aggiornare i dati e modificare le impostazioni di monitoraggio per riflettere in tempo reale lo stato della rete.
+Questa architettura consente di mantenere un accesso rapido e centralizzato alle informazioni, facilitando la gestione e l'analisi dei dispositivi. Attraverso l'interfaccia grafica, gli utenti possono non solo monitorare lo stato della rete, ma anche aggiornare i dati e modificare le impostazioni di monitoraggio, assicurando che il sistema rifletta in tempo reale la situazione attuale della rete.
 
+Il progetto è pensato per garantire una sincronizzazione costante dei dati tra i dispositivi e il sistema centralizzato. 
+Questa funzionalità consente agli utenti di mantenere l'elenco dei dispositivi e le configurazioni sempre aggiornati, adattandosi rapidamente ai cambiamenti operativi. 
+L'applicazione offre inoltre la possibilità di abilitare o disabilitare il monitoraggio delle prestazioni di rete, fornendo un controllo diretto e immediato sulle risorse gestite.
+
+Questo progetto si inserisce in un contesto di interesse per Kirey Group, poiché operando nel campo della gestione dei dati e della trasformazione digitale, l'azienda si trova a dover rispondere ad esigenze di ottimizzazione e automazione dei processi IT, offrendo una soluzione per la gestione delle reti aziendali.
 ==== Funzionalità principali dell'applicazione
 
 Le funzionalità principali dell'applicazione sviluppata sono:
@@ -317,6 +325,25 @@ In particolare, questi sono gli aspetti che ho tenuto in maggiore considerazione
 - *Conoscenze dello sviluppo software:* Approfondire le metodologie di sviluppo software e i processi aziendali adottati in un contesto professionale, in modo da consolidare la mia preparazione teorica. Lavorare con metodologie Agile e seguire i processi di qualità e controllo del codice mi ha dato una panoramica pratica di come vengono gestiti i progetti all'interno di un'azienda di consulenza come Kirey Group;
 
 - *Finestra sul mondo del lavoro:* Acquisire una visione più chiara del mondo del lavoro e di ciò che accade in un'azienda. 
+
+#linebreak()
+Gli obiettivi personali verranno identificati tramite la sigla P + numero identificativo del requisito.
+Di seguito una tabella riassuntiva degli obiettivi personali:
+#figure(
+table(
+columns: (0.5fr, 2fr),
+align: (center+horizon, left+horizon),
+[Categoria], [Descrizione],
+[P1], [Migliorare le mie capacità di collaborazione e comunicazione all'interno di un team di sviluppo.],
+[P2], [Sviluppare un approccio efficace al problem solving per affrontare problemi complessi.],
+[P3], [Ampliare le mie conoscenze tecnologiche.],
+[P4], [Approfondire metodologie di sviluppo software e processi aziendali professionali.],
+[P5], [Acquisire una visione più chiara del mondo del lavoro e delle dinamiche aziendali.],
+),
+kind: table,
+numbering: (_) => [#counter(heading).get().at(0)] + "." + [#counter(figure.where(kind: table)).display()],
+caption: [Obiettivi personali.],
+)
 
 Questa esperienza rappresenta per me la prima vera opportunità di crescita professionale e mi ha permesso di applicare in modo concreto le conoscenze teoriche acquisite nel corso di studi, di migliorare le mie competenze trasversali e di prepararmi ad affrontare il futuro in modo più consapevole e competente.
 
