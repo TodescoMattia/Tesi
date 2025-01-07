@@ -63,12 +63,12 @@ Ogni volta che viene risolto un problema complesso o implementata una nuova proc
 
 Un altro aspetto che ho potuto osservare durante il mio tirocinio è stata l'implementazione dell'automazione dei processi per migliorare l'efficienza e la rapidità di risposta. 
 
-Nel gruppo Database Assessment (DBA), molte attività ripetitive come la verifica della salute dei database e il controllo dei log vengono automatizzate tramite script personalizzati e strumenti di automazione come Bash scripting. Questa automazione permette di ridurre i tempi di intervento e minimizzare gli errori umani. Ho avuto l'opportunità di vedere come questi strumenti siano configurati per inviare notifiche automatiche  via e-mail al team quando vengono rilevati problemi critici, facilitando interventi immediati e tempestivi.
+Nel gruppo Database Assessment (DBA), molte attività ripetitive come la verifica della salute dei database e il controllo dei log vengono automatizzate tramite script personalizzati e strumenti di automazione come Bash scripting. Questa automazione permette di ridurre i tempi di intervento e minimizzare gli errori umani. Ho avuto l'opportunità di vedere come questi strumenti siano configurati per inviare notifiche automatiche  via e-mail al _team_ quando vengono rilevati problemi critici, facilitando interventi immediati e tempestivi.
 
 === Metodologie di lavoro agile
 
 Nonostante il focus consulenziale, Kirey Group adotta metodologie Agile per la gestione delle attività e dei progetti. 
-Viene implementata quindi una collaborazione continua tra team di lavoro e cliente, basata principalmente sulla consegna frequente di piccoli incrementi funzionanti del prodotto.
+Viene implementata quindi una collaborazione continua tra _team_ di lavoro e cliente, basata principalmente sulla consegna frequente di piccoli incrementi funzionanti del prodotto.
 
 L'approccio Scrum è ampiamente utilizzato per organizzare il lavoro in modo efficiente e flessibile, anche per attività di supporto e manutenzione evolutiva.
 
@@ -148,17 +148,17 @@ Di seguito una rappresentazione fornitami dall'azienda di una tipica interazione
 )
 === Strumenti di lavoro
 
-Kirey Group adotta strumenti collaborativi per facilitare il lavoro in team e garantire un'efficace gestione dei progetti:
+Kirey Group adotta strumenti collaborativi per facilitare il lavoro in _team_ e garantire un'efficace gestione dei progetti:
 
 - *Microsoft Teams* per la comunicazione interna, le chat e le videoconferenze, supportando la collaborazione sia in ufficio che da remoto.
 
-- *Jira* è uno strumento per la gestione delle attività e degli sprint nei progetti _Agile_. Permette di tracciare i progressi e organizzare il lavoro in modo efficiente. Durante gli sprint, ho utilizzato Jira per coordinare le attività con i membri del team e monitorare l'avanzamento del progetto.
+- *Jira* è uno strumento per la gestione delle attività e degli sprint nei progetti _Agile_. Permette di tracciare i progressi e organizzare il lavoro in modo efficiente. Durante gli sprint, ho utilizzato Jira per coordinare le attività con i membri del _team_ e monitorare l'avanzamento del progetto.
 
 - *Confluence* è una piattaforma di documentazione centralizzata utilizzata per condividere conoscenze e informazioni sui progetti, garantendo un archivio facilmente consultabile. Ho notato come l'integrazione tra Jira e Confluence permetta di mantenere la documentazione sempre aggiornata e di reperire informazioni su tutti i progetti a cui un dipendente è assegnato in maniera rapida.
 
 - *Bitbucket* è un servizio di version control basato su Git, utilizzato per il controllo delle versioni del codice e per l'integrazione continua (CI/CD). Facilita il _merge_ e il _deployment_ del codice attraverso pipeline automatizzate. Ho trovato particolarmente utile l'integrazione di Bitbucket con Jira per collegare direttamente le modifiche del codice alle specifiche attività del progetto.
 
-Queste piattaforme assicurano una gestione ottimale delle informazioni, una comunicazione fluida e un'alta produttività operativa, permettendo di lavorare efficacemente sia in team locali che distribuiti.
+Queste piattaforme assicurano una gestione ottimale delle informazioni, una comunicazione fluida e un'alta produttività operativa, permettendo di lavorare efficacemente sia in _team_ locali che distribuiti.
 
 //###############################################################################################################################
 
@@ -188,10 +188,10 @@ In particolare, ho potuto osservare l'importanza attribuita a:
 == Il ruolo dello _stage_ secondo Kirey Group
 
 Lo _stage_ ricopre un ruolo cruciale nel percorso di crescita di Kirey Group, rappresentando un passaggio fondamentale per il raggiungimento degli obiettivi di innovazione e sviluppo aziendale. 
-Come parte integrante della strategia dell'azienda, lo _stage_ è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri team.
+Come parte integrante della strategia dell'azienda, lo _stage_ è concepito non solo come un momento di apprendimento per i giovani, ma anche come un'opportunità per Kirey Group di attrarre nuovi talenti e introdurre idee e competenze fresche all'interno dei propri _team_.
 
 Kirey Group, come comunicatomi durante i colloqui preliminari, prevede l'inserimento di un solo tirocinante per gruppo di lavoro. 
-Questa scelta è motivata dalla volontà di offrire un'esperienza formativa di qualità, consentendo una maggiore attenzione al singolo stagista e favorendo un'interazione più diretta con i membri esperti del team.
+Questa scelta è motivata dalla volontà di offrire un'esperienza formativa di qualità, consentendo una maggiore attenzione al singolo stagista e favorendo un'interazione più diretta con i membri esperti del _team_.
 L'approccio di limitare il numero di tirocinanti in ciascun gruppo permette di evitare la dispersione delle risorse e di concentrare l'attenzione sullo sviluppo delle competenze del singolo, facilitando un'esperienza più strutturata e personalizzata.
 
 Nel mio caso, soprattutto a seguito dei primi colloqui con il personale aziendale, l'aspettativa creatasi era di essere inserito in un ambiente collaborativo, dove il confronto con colleghi esperti avrebbe favorito l'acquisizione di competenze specifiche e trasversali. 
@@ -213,7 +213,6 @@ Il progetto è pensato per garantire una sincronizzazione costante dei dati tra 
 Questa funzionalità consente agli utenti di mantenere l'elenco dei dispositivi e le configurazioni sempre aggiornati, adattandosi rapidamente ai cambiamenti operativi. 
 L'applicazione offre inoltre la possibilità di abilitare o disabilitare il monitoraggio delle prestazioni di rete, fornendo un controllo diretto e immediato sulle risorse gestite.
 
-Questo progetto si inserisce in un contesto di interesse per Kirey Group, poiché operando nel campo della gestione dei dati e della trasformazione digitale, l'azienda si trova a dover rispondere ad esigenze di ottimizzazione e automazione dei processi IT, offrendo una soluzione per la gestione delle reti aziendali.
 ==== Funzionalità principali dell'applicazione
 
 Le funzionalità principali dell'applicazione sviluppata sono:
@@ -316,7 +315,7 @@ Gli obiettivi che mi sono posto durante il tirocinio presso Kirey Group sono foc
 
 In particolare, questi sono gli aspetti che ho tenuto in maggiore considerazione prima di intraprendere il tirocinio:
 
-- *Lavorare in gruppo:* Migliorare le mie capacità di collaborazione e comunicazione all'interno di un team di sviluppo. Ho avuto l'opportunità di lavorare con persone provenienti da contesti diversi, con competenze specifiche, e quindi di confrontarmi con nuovi punti di vista e metodi di lavoro. Questo mi ha permesso di sviluppare un approccio più versatile nella gestione dei rapporti professionali;
+- *Lavorare in gruppo:* Migliorare le mie capacità di collaborazione e comunicazione all'interno di un _team_ di sviluppo. Ho avuto l'opportunità di lavorare con persone provenienti da contesti diversi, con competenze specifiche, e quindi di confrontarmi con nuovi punti di vista e metodi di lavoro. Questo mi ha permesso di sviluppare un approccio più versatile nella gestione dei rapporti professionali;
 
 - *_Problem solving_:* Sviluppare il mio approccio nel risolvere problemi complessi, applicando soluzioni tecniche efficaci e rispettando i vincoli aziendali;
 
@@ -327,14 +326,14 @@ In particolare, questi sono gli aspetti che ho tenuto in maggiore considerazione
 - *Finestra sul mondo del lavoro:* Acquisire una visione più chiara del mondo del lavoro e di ciò che accade in un'azienda. 
 
 #linebreak()
-Gli obiettivi personali verranno identificati tramite la sigla P + numero identificativo del requisito.
-Di seguito una tabella riassuntiva degli obiettivi personali:
+Gli obiettivi personali vengono identificati tramite la sigla P + numero identificativo del requisito.
+Di seguito è presente una tabella riassuntiva degli obiettivi personali:
 #figure(
 table(
 columns: (0.5fr, 2fr),
 align: (center+horizon, left+horizon),
 [Categoria], [Descrizione],
-[P1], [Migliorare le mie capacità di collaborazione e comunicazione all'interno di un team di sviluppo.],
+[P1], [Migliorare le mie capacità di collaborazione e comunicazione all'interno di un _team_ di sviluppo.],
 [P2], [Sviluppare un approccio efficace al problem solving per affrontare problemi complessi.],
 [P3], [Ampliare le mie conoscenze tecnologiche.],
 [P4], [Approfondire metodologie di sviluppo software e processi aziendali professionali.],
